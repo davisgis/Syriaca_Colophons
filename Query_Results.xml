@@ -69,6 +69,10 @@ Manuscript URI:  http://syriaca.org/manuscript/1/source
                                             ܒ̈ܨܠܘܬܐ ܕܝܠܕܬ ܐܠܗܐ ܘܩܕ̈ܝܫܐ ܐܡܝܢ♱ </quote>
     </p>
 </item>
+<item xmlns="http://www.tei-c.org/ns/1.0" n="1" xml:id="p2addition1">
+    <locus from="169b" to="169b"/>
+    <ref target="#p2a1 #p2handnote2"/>
+</item>
 **************************************************
 ######################################
 Manuscript URI:  http://syriaca.org/manuscript/100/source
@@ -188,6 +192,114 @@ Manuscript URI:  http://syriaca.org/manuscript/1153/source
                                             ܝܫܘܥ̇ ܕܐܬܩܪܝ ܓ݂ܙܘܝ ܡܢ ܩܨܘܪ ܐܬܪܐ
                                         ܕܡܪܕܐ ܐܘܟܝܬ ܡܐܪܕܝܢ ܡܕܝܢܬܐ. </quote>
 </item>
+<item xmlns="http://www.tei-c.org/ns/1.0" n="1" xml:id="addition1">
+    <label/>
+    <locus from="47b">Fol. 47b</locus>
+    <quote xml:lang="syr">
+        <ref target="#Abr_b_Yesh"/>
+        <ref target="#handnote1"/>ܘܐܬܟ̣ܬܒ ܥܠ ܐܝܼܕܘ̈ܗܝ ܕܚܛܝܐ ܘܡܚܝܼܠܐ ܐܒܪܗܡ ܕܘ̇ܝܐ ܒܪ ܡܲܩܕܫܝܐ ܡܢܚܐ
+                                            ܝܫܘܥ̇ ܕܐܬܩܪܝ ܓ݂ܙܘܝ ܡܢ ܩܨܘܪ ܐܬܪܐ
+                                        ܕܡܪܕܐ ܐܘܟܝܬ ܡܐܪܕܝܢ ܡܕܝܢܬܐ. </quote>
+</item>
+<item xmlns="http://www.tei-c.org/ns/1.0" n="2" xml:id="addition2">
+    <label/>
+    <locus from="77a">Fol. 77a</locus>
+    <quote xml:lang="syr">
+        <ref target="#Abr_b_Yesh"/>
+        <ref target="#handnote1"/> ܘܨܠܘ ܥܠ ܐܒܪܗܡ ܚܲܛܝܐ ܒܪ
+                                        ܡܩܕܫܝܐ ܝܫܘܥ ܡܢ ܡܕܢܚܐ ܐܬܪܐ ܕܡܪܕܝܢ ܡܕܝܢܬܐ ܡܢ ܩܪܝܬܐ ܡܒܪܟܬܐ ܩܨܘܪ
+                                        ܟ̣ܬܒܬܗ ܠܟܬܒܐ ܗܢܐ ܒܐܘܪܫܠܡ ܡܕܝܢܬܗ ܕܡܟܠܐ ܪܒܐ ܒܕܝܪܐ ܩܕܝܫܬܐ
+                                        ܕܝܿܠܕܬ݀ ܐܠܗܐ ܡܪܝܡ ܕܡܬܟܲܢܐ ܕܒܝܬ ܡܪܩܘܣ.. </quote>
+</item>
+<item xmlns="http://www.tei-c.org/ns/1.0" n="5" xml:id="addition5">
+    <label/>
+    <locus from="77a">Fol. 77a</locus>
+    <quote xml:lang="ara-syrc">
+        <ref target="#Serg_al-Jub"/> ܝܩܘܠ ܐܠܚܩܝܪ ܣܪܓܝܣ
+                                        ܘܐܛܥ ܐܣܡܗ ܐܠܓܒܝܠܝ ܐܢܢܝ ܐܣܬܒܕܠܬ ܗܕܐ ܟܬܐܒ ܐܠܥܬܝܩܗ ܟܠܗ ܟ݂ܛ
+                                        ܣܪܝܐܢܝ ܦܝ ܢܨܟܬܗ ܟ݂ܛ ܝܕܝ ܡܦܣܪ ܟ݂ܛ ܐܟܪܫܘܢܝ ܘܐܠܠܗ ܥܠܝ ܡܐ ܢܩܘܠ
+                                        ܘܟܝܠ ܫܐܗܕ ܚܩ ܒܚܛܪܗ̈ ܐܟ݂ܘܬܝ ܡܛܪܢ ܝܘܢܢ ܘܡܛܪܐܢ ܝܘܣܦ ܟ݂ܘܪܝ ܝܚܢܐ
+                                        ܟ݂ܘܪܝ ܐܢܛܘܢܝܘܣ ܘܒܐܩܝ ܐܠܐܟ݂ܘܗ ܐܠܠܗ ܝܟ݂ܠܨܗܡ ܐܡܝܢ:
+                                    </quote>
+</item>
+<item xmlns="http://www.tei-c.org/ns/1.0" n="2" xml:id="addition2">
+    <label/>
+    <locus from="77a">Fol. 77a</locus>
+    <quote xml:lang="syr">
+        <ref target="#Abr_b_Yesh"/>
+        <ref target="#handnote1"/> ܘܨܠܘ ܥܠ ܐܒܪܗܡ ܚܲܛܝܐ ܒܪ
+                                        ܡܩܕܫܝܐ ܝܫܘܥ ܡܢ ܡܕܢܚܐ ܐܬܪܐ ܕܡܪܕܝܢ ܡܕܝܢܬܐ ܡܢ ܩܪܝܬܐ ܡܒܪܟܬܐ ܩܨܘܪ
+                                        ܟ̣ܬܒܬܗ ܠܟܬܒܐ ܗܢܐ ܒܐܘܪܫܠܡ ܡܕܝܢܬܗ ܕܡܟܠܐ ܪܒܐ ܒܕܝܪܐ ܩܕܝܫܬܐ
+                                        ܕܝܿܠܕܬ݀ ܐܠܗܐ ܡܪܝܡ ܕܡܬܟܲܢܐ ܕܒܝܬ ܡܪܩܘܣ.. </quote>
+</item>
+<item xmlns="http://www.tei-c.org/ns/1.0" n="5" xml:id="addition5">
+    <label/>
+    <locus from="77a">Fol. 77a</locus>
+    <quote xml:lang="ara-syrc">
+        <ref target="#Serg_al-Jub"/> ܝܩܘܠ ܐܠܚܩܝܪ ܣܪܓܝܣ
+                                        ܘܐܛܥ ܐܣܡܗ ܐܠܓܒܝܠܝ ܐܢܢܝ ܐܣܬܒܕܠܬ ܗܕܐ ܟܬܐܒ ܐܠܥܬܝܩܗ ܟܠܗ ܟ݂ܛ
+                                        ܣܪܝܐܢܝ ܦܝ ܢܨܟܬܗ ܟ݂ܛ ܝܕܝ ܡܦܣܪ ܟ݂ܛ ܐܟܪܫܘܢܝ ܘܐܠܠܗ ܥܠܝ ܡܐ ܢܩܘܠ
+                                        ܘܟܝܠ ܫܐܗܕ ܚܩ ܒܚܛܪܗ̈ ܐܟ݂ܘܬܝ ܡܛܪܢ ܝܘܢܢ ܘܡܛܪܐܢ ܝܘܣܦ ܟ݂ܘܪܝ ܝܚܢܐ
+                                        ܟ݂ܘܪܝ ܐܢܛܘܢܝܘܣ ܘܒܐܩܝ ܐܠܐܟ݂ܘܗ ܐܠܠܗ ܝܟ݂ܠܨܗܡ ܐܡܝܢ:
+                                    </quote>
+</item>
+<item xmlns="http://www.tei-c.org/ns/1.0" n="6" xml:id="addition6">
+    <label/>
+    <locus from="105a">Fol. 105a</locus>
+    <quote xml:lang="ara-syrc">
+        <ref target="#Serg_al-Jub"/> ܝܘܩܠ ܐܠܚܩܝܪ ܣܪܓܝܣ
+                                        ܐܠܓܒܝܠܝ ܘܐܛܥ ܐܣܡܗ ܐ܏ܠܟ
+                                    </quote>
+</item>
+<item xmlns="http://www.tei-c.org/ns/1.0" n="6" xml:id="addition6">
+    <label/>
+    <locus from="105a">Fol. 105a</locus>
+    <quote xml:lang="ara-syrc">
+        <ref target="#Serg_al-Jub"/> ܝܘܩܠ ܐܠܚܩܝܪ ܣܪܓܝܣ
+                                        ܐܠܓܒܝܠܝ ܘܐܛܥ ܐܣܡܗ ܐ܏ܠܟ
+                                    </quote>
+</item>
+<item xmlns="http://www.tei-c.org/ns/1.0" n="3" xml:id="addition3">
+    <label/>
+    <p>
+        <ref target="#Abr_b_Yesh"/>See also <locus from="165b">Foll. 165b</locus> and <locus from="320a">320a</locus>.</p>
+</item>
+<item xmlns="http://www.tei-c.org/ns/1.0" n="4" xml:id="addition4">
+    <label/>
+    <locus from="199-200">Foll. 199-200</locus>
+    <quote xml:lang="syr">
+        <ref target="#Ant_Jerus"/> ܘܨܰܠܰܘ ܥܰܠ ܐܠܺܝܠܐ
+                                        ܐܢܛܘܢܝܘܣ ܨܗܝܘܢܝܐ ܕܟܬ݂ܒ ܡܛܠ ܡܪܢ ܘܗܼܘ ܢܚܣܐ ܠܟܘܢ ܐܰܡܺܝܢ.
+                                    </quote>
+</item>
+<item xmlns="http://www.tei-c.org/ns/1.0" n="7" xml:id="addition7">
+    <label/>
+    <locus from="219a">Fol. 219a</locus>
+    <quote xml:lang="ara-syrc">
+        <ref target="#Serg_al-Jub"/> ܝܘܐܠܟܬܐܒ ܒܪܣܡ
+                                        ܐܠܚܩܝܪ ܣܪܓܝܣ ܘܐܟܘܬܗ ܡܛܪܐܢ ܝܘܢܢ ܡܛܪܐܢ ܝܘܣܦ: ܘܐܘܠܐܕ ܐܟ݂ܝ ܟ݂ܘܪܝ
+                                        ܝܚܢܐ ܫܡܐܣ ܒܘܠܨ ܫܡܐܣ ܣܡܥܐܢ ܐܠܠܗ ܝܚܦܛܗܡ ܐܡܝܢ܀
+                                    </quote>
+</item>
+<item xmlns="http://www.tei-c.org/ns/1.0" n="7" xml:id="addition7">
+    <label/>
+    <locus from="219a">Fol. 219a</locus>
+    <quote xml:lang="ara-syrc">
+        <ref target="#Serg_al-Jub"/> ܝܘܐܠܟܬܐܒ ܒܪܣܡ
+                                        ܐܠܚܩܝܪ ܣܪܓܝܣ ܘܐܟܘܬܗ ܡܛܪܐܢ ܝܘܢܢ ܡܛܪܐܢ ܝܘܣܦ: ܘܐܘܠܐܕ ܐܟ݂ܝ ܟ݂ܘܪܝ
+                                        ܝܚܢܐ ܫܡܐܣ ܒܘܠܨ ܫܡܐܣ ܣܡܥܐܢ ܐܠܠܗ ܝܚܦܛܗܡ ܐܡܝܢ܀
+                                    </quote>
+</item>
+<item xmlns="http://www.tei-c.org/ns/1.0" n="3" xml:id="addition3">
+    <label/>
+    <p>
+        <ref target="#Abr_b_Yesh"/>See also <locus from="165b">Foll. 165b</locus> and <locus from="320a">320a</locus>.</p>
+</item>
+<item xmlns="http://www.tei-c.org/ns/1.0" n="3" xml:id="addition3">
+    <label/>
+    <p>
+        <ref target="#Abr_b_Yesh"/>See also <locus from="165b">Foll. 165b</locus> and <locus from="320a">320a</locus>.</p>
+</item>
 **************************************************
 ######################################
 Manuscript URI:  http://syriaca.org/manuscript/117/source
@@ -203,6 +315,14 @@ Manuscript URI:  http://syriaca.org/manuscript/117/source
     <p>A note on the margin of fol. 3 a states that <ref target="#a1">this index</ref> was drawn up by one <persName ref="">Severus</persName>, with the aid of the priest <persName ref="">John</persName> and the deacon and steward <persName ref="">Romanus</persName>:</p>
     <p>
         <quote xml:lang="syr">ܟܠ ܕܩ̇ܪܐ ܒܟܬܒܐ ܗܢܐ ܡܛܠ ܚܘܒܗ ܕܡܪܢ̣. ܢ̇ܨܠܐ ܥܠ ܣܐܘܪܐ ܚܛܝܐ ܘܡܚܝܠܐ ܕܣ̣ܡ ܦܘܪܫ ܩܪ̈ܝܢܐ ܗܠܝܢ ܕܐܝܟ ܡܫܠܡܢܘܬܐ ܕܫܒܥܝܢ ܐܬܬܪܨܘ.♱ ܘܥܠ ܩܫܝܫܐ ܡܪܝ ܝܘܚܢܢ ܘܫܡ̇ܫܐ ܡܪܝ ܪܘܡܢܐ ܪܒܝܬܐ̇. ܕܐܝܟ ܚܝܠܐ ܕܝܠܗܘܢ ܥܿܕܪܘܢ♱</quote>
+    </p>
+</item>
+<item xmlns="http://www.tei-c.org/ns/1.0" n="2" xml:id="addition2">
+    <locus from="48a" to="48a"/>
+    <ref target="#a2 #handNote1"/>
+    <p>On fol. 48 a there is the following note, in the handwriting of the scribe, saying that the manuscript was written in the year <origDate when-custom="0843" calendar="Seleucid">843</origDate>, <origDate when="0532" calendar="Gregorian">A.D. 532</origDate>, and collated with care in the <origPlace ref="">convent of the Orientals (at Edessa?)</origPlace>. Part of it has been intentionally erased.</p>
+    <p>
+        <quote xml:lang="syr">ܐܬܟܬܒ ܕܝܢ ܟܬܒܐ ܗܢܐ ܒܝܘܡܝ ܩܕܝܫܐ ܘܪܚܡ ܐܠܗܐ ܡܪܝ [ܣܒܝ . . ܪܝܫ ܕܝܪܐ ܘܩܫܝܫܐ ܢܘܗܪܐ ܕܕܝܪܐ ܕܒܝܬ. . . ] ܘܫܪܟܐ ܕܟܠܗܘܢ ܕܒܝܬ ܡܪܝ. ܘ. ܐܫܬܠܡ ܕܝܢ ܟܬܒܐ ܗܢܐ ܒܝܪܚ ܐܝܪ ܒܥܣܪ̈ܝܢ ܘܬܡ̈ܢܝܐ ܒܗ. ܕܫܢܬ ܬܡܢܡ̈ܐܐ ܘܐܪ̈ܒܥܝܢ ܘܬܠܬ ܗܢܕܩܛܝܘܢܐ ܕܕܩܛܐ. ܡܦܚܡ ܕܝܢ ܟܬܒܐ ܗܢܐ ܒܕܝܪܐ ܕܡ̈ܕܢܚܝܐ ܒܫܩܠ ܛܥܢܐ.</quote>
     </p>
 </item>
 **************************************************
@@ -389,6 +509,13 @@ Manuscript URI:  http://syriaca.org/manuscript/156/source
         <ref target="#p1a1">The Acts</ref> is followed by the short doxology:</p>
     <p>
         <quote xml:lang="syr">ܫܘܒܚܐ. ܠܡܪܢ. ܐܡܝܢ</quote>
+    </p>
+</item>
+<item xmlns="http://www.tei-c.org/ns/1.0" n="1" xml:id="p2addition1">
+    <locus from="148" to="148"/>
+    <p>A note at the end states that these leaves were written by a person named <persName ref="">Lazarus</persName>:</p>
+    <p>
+        <quote xml:lang="syr">ܟܬ̣ܒ ܠܗܠܝܢ ܐܪܒܥ ܐܓܪ̈ܬܐ ܐܚܪ̈ܢܝܬܐ ܠܥܙܪ ܬܚܘܒܐ ܒܐܦ݁ . . . ܨܠܘܬܢ ܥܠܘܗܝ ܘܡܪܝܐ ܢܚܣܐ ܠܗ. ܒܝܕ ܨܠܘܬܐ . . . ܥܕܬܐ ܩܕܝܫܬܐ. ܘܠܟܠ ܕܐܡ̇ܪ ܐܡܝܢ܀ ܓܪ̈ܡܝ ܢܩܥܘܢ ܡܢ ܩܒܪܐ ܕܐܠܗܐ ܢܥ̣ـ . . . ܘܐܢ ܐܝܬ ܡܘܡܐ ܒܗܝܡܢܘܬܐܝ ܥܡ . .</quote>
     </p>
 </item>
 **************************************************
@@ -732,6 +859,14 @@ Manuscript URI:  http://syriaca.org/manuscript/753/source
         <quote xml:lang="syr">ܒܫܡ ܐܝܼܬܝܐ ܡܬܘܼܡܝܐ ܐܵܠܨ̇ܝ ܐܝܼܬܘܼܐ. ܓ݂ܪܝܓ݂ܘܿܪܝܘܿܣ ܬܚܘܼܒܐ ܡܝܛ܏ܪܘ ܕܐܘܿܪܹܫܠ̣ܡ. ܒܲܦܣܵܩܐ ܐܠܗ̇ܝܐ ܡܬܲܚܡܝܼܢܢ. ܒܡܠ̣ܬܐ ܕܚܝܼܠܬܐ ܕܐܠܗܐ. ܕܠܐ ܐܢܫ ܢܲܦܸܩ ܠܚ̇ܕܬܐ ܗܕܐ ܕܥܠ ܐܝܼܕ̈ܝܐ. ܡ̣ܢ ܕܝܪܐ ܗܕܐ ܕܝܿܠܕܬ݀ ܐܠܗܐ ܡܪܝܡ. ܕܒܡܲܕܒܪܐ ܕܐܣܩܝܛܝ. ܕܡܬܝܲܕܥܐ ܕܝܪܐ ܕܣܘܪ̈ܝܝܐ. ܕܐܝܬܝܗ̇ ܒܡܲܥܪܒ ܕܝܪܐ ܕܐܒܐ ܒܝܫܘܝ ܒܫܒ̇ܒܘܼܬܗ ܩܲܪܝ̣ܒܬܐ. ܒܐܝܿܕܐ ܕܗ̣ܝ ܥܠ̣ܬܐ. ܠܒܪ ܡܢ ܦܘܩܕܢܐ ܘܡܲܦܣܢܘܬܐ ܕܪܝܫܢܐ ܕܕܝܪܐ ܕܒܙܲܒܢܐ ܗ̇ܘ. ܥܡ ܕܟܠܗ̇ ܐܚܘܬܐ. ܘܕܣ̇ܥܐ ܐ̇ܘ ܡܲܡܪܚ ܥܠ ܗܠܝܢ. ܡܲܢ ܕܢܗ̣ܘܐ ܐܝܼܬ܏ܘ ܗܢܐ. ܐܢ ܪܹ̈ܝܫܟܗܢܐ. ܘܐܢ ܟܗܢܐ. ܘܐܢ ܡ̣ܢ ܫܲܪܟܐ ܕܩܠܝܼܪܘܣ. ܘܐܢ ܥܠܡܝܐ. ܬܗ̣ܘܐ ܡܢ̇ܬܗ ܥܡ ܕܩ̇ܐܝܢ ܠܝܼܛܐ. ܘܓܲܪܒܗ ܕܓܚܙܝ ܢ̣ܕܒܩ ܒܗ. ܘܡܲܚܘܢܘܼܩܝܬܗ ܕܝܗܘܕܐ ܣܟܪܝܘܛܐ ܬܸܗ̣ܘܐ ܒܲܩܕܠܗ. ܘܢܗܘ̣ܐ ܡܲܚܪܡ ܘܠܝܼܛ ܘܡܲܣܠܝ ܡܢ ܬܠܝܬ܏ܝܘ ܏ܩܕ ܐܒ̣ܐ ܘܒ̣ܪܐ ܘܪܘܼܚܐ ܏ܩܕ ܚܕ ܐܠܗܐ ܫܲܪܝܪܐ. ܘܠܐ ܢܗ̣ܘܐ ܠܗ ܚܘܼܣܝܐ ܘܠܐ ܫܪܵܝܐ. ܥܕܡܐ ܕܢܲܗܦܟܝܼܗ̇ ܠܕܘܼܟܬܗ̇ ܕܐܬ݂ܡܪܬ܇ ܬܗܘ̣ܐ ܬܗܘ̣ܐ. ܐܡܝܢ. ܘܟܠܡܲܢ ܕܡܠܲܝܬܐ ܠܥܘܼܗܕܢܐ ܗܢܐ ܒܚܕ ܡ̣ܢ ܙܢ̈ܝܢ. ܠܗܝܢ ܠܠܘܛܬ̈ܐ ܘܠܚ̣ܪ̈ܡܐ ܕܡܢ ܠܥ̣ܠ ܟܬ̣ܒܢܢ ܢܩܲܒܠ ܐܥܝܼܦܐܝܬ. ܐܡܝܢ. ܘܕܢ̇ܛܪ ܢܬܢܛܪ. ܐܡܝܢ. ܟܬܒ̇ܬ ܒܐܝܼ̈ܕܝ ܠܐ ܕܟܝ̈ܬܐ ܐܢ̇ܐ ܓܪܝܓܘܪܝܘܣ ܡܚܝܼܠܐ ܠܗܠܝܢ ܐܣ̣ܪ̈ܐ ܘܬܚܘܼܡ̈ܐ. ܒܫܢܬ ܐܦ̇܏ܟܙ ܕܝܲܘܢ. ܝ܏ܗ ܠܐܕܪ ܝܪܚܐ ܐܻܝܣܻܡܹܗܪܵܐ  (*) ܬܕܐܢ̇ܝܐ. ܒܝܘܡ ܫܲܒܬܐ ܕܢܘܚܵܡܗ ܕܠܥܙܪ. ܒܗ̇ ܒܕܝܪܐ ܥܲܗܝܕܬܐ. ܒܪܹܝܫܢܘܬܗ ܕܐܒܘܢ ܛܘܼܒܬܢܐ ܡܪܝ ܣܐܘܝܪܘܣ ܡܝܛ܏ܪܘ. ܪܝܫܢܐ ܘܡܕܒܪܢܐ ܕܝܠܗ̇ ܕܕܝܪܐ. ܕܗ̣ܘ ܥ̣ܨܢܝ ܠܝ̣ ܠܕܘܝܐ ܠܲܡܣܵܡ ܠܲܦܣ̈ܩܐ ܘܠܬܚܘܼܡ̈ܐ ܗܠܝܢ. ܒܚ̇ܕܬܐ ܗܕܐ. ܘܐܦ ܒܣܘܓ݂ܐܐ ܕܟܬܒ̈ܐ ܐܚܪ̈ܢܐ ܐܝܠܝܢ ܕܗ̣ܘ ܝܼܨܦ ܘܐܟ̣ܬ݂ܒ ܐܢܝܢ ܠܕܝܪܐ ܗܕܐ. ܘܫܲܟܢ ܐܢܝܢ ܠܗ̇ ܫܘܼܟܢܐ ܚܲܬܝܬܐ ܘܠܐ ܡ̣ܬܦܲܪܫܢܐ ܡ̣ܛܠ̇  ܕܘܼܟܪܢܐ ܛܒ̇ܐ ܕܢܦܫܗ. ܐܦ ܕܫܪܟܐ ܕܡܫܘ̈ܬܦܐ. ܘܡܛܠ ܕܚ̣ܠܬܐ ܕܡ̣ܢ ܠܐ ܪ̈ܕܝܐ ܘܠܐ ܕܚ̈ܠܝ ܐܠܗܐ. ܣܡ̣ܢܢ ܒܗܘܢ ܬܚܘܼܡ̈ܐ ܗܠܝܢ ܐܝܟ ܕܡ̣ܬܚܙܐ. ܘܕܢ̇ܛܪ ܢ̣ܬܢܛܪ. ܘܕܥ̇ܒܪ ܠܐ ܢܗ̣ܘܐ ܫܪܵܝܐ ܠܥܠܡ̇ ܐܡܝܢ. ܐܝܢ.</quote>
     </p><!-- MISSING GREEK -->
 </item>
+<item xmlns="http://www.tei-c.org/ns/1.0" n="1" xml:id="addition1">
+    <locus from="172b" to="172b"/>
+    <ref target="#a2 #handNote1"/>
+    <p>A note at the foot of fol. 172 b gives the name of the scribe, <persName ref="">Isaac</persName>: </p>
+    <p>
+        <quote xml:lang="syr">ܝܫܘܥ ܐܠܗܐ̇ ܚܲܣܐ ܒܛܝܒܘܬܟ܇ ܠܐܝܣܚܩ ܚܛܝܐ̣. ܕܟܬܼܒ ܠܣܒܪܬܟ</quote>
+    </p>
+</item>
 **************************************************
 ######################################
 Manuscript URI:  http://syriaca.org/manuscript/76/source
@@ -762,6 +897,17 @@ Manuscript URI:  http://syriaca.org/manuscript/8/source
     <quote xml:lang="syr">ܣܡ̇ܬ ܠܟ ܝܕܥܐ ܥܠ ܪܫܐ ܕܟܘ̈ܪܣܐ̣. ܕܕܠܐ ܬܘܗܝܐ ܬܫܟܚ ܩܪܝܬܐ ܕܒܥܐ ܐܢܬ݁. ܡܢ ܗܠܝܢ ܕܟ̈ܬܝܒܢ ܡܢ ܠܥܠ</quote>
     <quote>"I have put a mark for thee at the commencement of each quire, that thou mayest find without delay the lesson which thou seekest among those written above."</quote><!-- Do we want to keep the dated language? -->
     <p>By <foreign xml:lang="syr">ܕܦܐ</foreign> is meant a single leaf of the manuscript.</p>
+</item>
+<item xmlns="http://www.tei-c.org/ns/1.0" n="5" xml:id="addition5">
+    <locus from="100b" to="100b"/>
+    <ref target="#a2"/>
+    <p>
+        <quote xml:lang="syr">ܫܠ̣ܡܬ ܢܒܝܘܬܗ ܕܚܙܩܝܐܝܠ ܢܒܝܐ ܡܫܒܚܐ ܕܢܒ̈ܝܐ</quote>
+    </p>
+    <p>followed by the usual doxology, and by two lines of writing in a more cursive character, which are now only partially legible, but may be supplied as follows:</p>
+    <p>
+        <quote xml:lang="syr">ܟܠ ܕܝܢ ܕܩ̇ܪܐ ܒܟܬܒܐ ܗܢܐ [ܢܨܠܐ ܥܠ ܟܬܘ]ܒܐ ܚܛܝܐ ܕܟܬ̣ܒܗ ܕܢܬܚܢܢ [ܒܝܘܡ ܕܝܢ̣ܐ. ܐܡܝܢ] ܘܐܡܝܢ . </quote>
+    </p>
 </item>
 **************************************************
 ######################################
@@ -831,6 +977,16 @@ Manuscript URI:  http://syriaca.org/manuscript/85/source
     <quote>“This first book of Kings was corrected, so far as possible and with much labour, from the different versions, viz. from that of the Syrians and from those of the Greeks, by the hands of the pious <persName ref="http://syriaca.org/person/113">Jacob, bishop of <placeName>Edessa</placeName>
         </persName>, in <date when-custom="1016" datingMethod="Seleucid">the year 1016 of the Greeks or of <persName>king Seleucus</persName>
         </date> (<date when="0705" calendar="Gregorian">A.D. 705</date>), third indiction, in the great <placeName ref="">convent of Tel-'Adā.</placeName>"</quote>
+</item>
+<item xmlns="http://www.tei-c.org/ns/1.0" n="1" xml:id="addition1">
+    <ref target="#handNote2"/>
+    <p>Greek vowels are rarely added; for example, <locus from="5a" to="5a">fol. 5 a</locus>, <foreign xml:lang="syr">ܦܶܐܢܰܐܢܰܐ</foreign>, <locus from="88b" to="88b">fol. 88 b</locus>, <foreign xml:lang="syr">ܕܒܣܐܦܝܡܘܬ</foreign>, <foreign xml:lang="syr">ܕܒܐܪܝܩܐܢ</foreign> ,and <foreign xml:lang="syr">ܕܒܢܘܳܢܬܘܳܡ</foreign>.</p>
+ <!-- Missing some vowels on top of these syriac words -->
+</item>
+<item xmlns="http://www.tei-c.org/ns/1.0" n="11" xml:id="addition11">
+    <locus from="166" to="166"/>
+    <ref target="#b4 #handNote1"/>
+    <quote xml:lang="syr">܏ܝܗ ܥܠ ܗ̇ܝ ܕܟܕ ܣܐ̣ܒ ܕܘܝܕ ܠܐ ܫܚ̇ܢ ܗܘܐ ܒܠܒܘ̈ܫܐ܆ ܘܐܝܬ̣ܝܘ ܠܗ ܥܠܝܡܬܐ ܒܬܘܠܬܐ ܕܬܫܟ݂ܒ ܥܡܗ: ܘܥܠ ܪܘܪܒܗ ܕܐܘܪܢܝܐ ܒܪ ܚܐܓܝܬ ܠܘܬ ܗ̇ܝ ܕܢܡܠܟ̇ ܘܥܠ ܦܘܕܗ ܕܡܢ ܪܓܬܗ: ܘܥܠ ܡܠܟܘܬܗ ܕܫܠܘܡܘܢ ܘܥܠ ܗܠܝܢ ܕܦܩܕܗ ܐܒܘܗܝ ܩܕܡ ܕܢܡܘܬ܀</quote>
 </item>
 **************************************************
 ######################################
