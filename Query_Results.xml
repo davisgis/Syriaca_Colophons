@@ -1,1084 +1,341 @@
-﻿######################################
-Manuscript URI:  http://syriaca.org/manuscript/1/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#p1addition1 #p1addition2 #p1addition3">See additions.</ref>
-</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#p2addition1">See below.</ref>
-</colophon>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="1" xml:id="p1addition1">
-    <locus from="107b" to="107b"/>
-    <ref target="#p1a1 #p1handnote5"/>
-    <p>The doxology,</p>
-    <p>
-        <quote xml:lang="syr">ܫܘܒܚܐ ܠܬܠܝܬܝܘܬܐ̇ ܣܓܝܕܬ ܡܢ ܟܠ̣ ܐܡܝܼܢ ܘܐܡܝܢ܆</quote>,</p>
-    <p>and in a more cursive character the words</p>
-    <p>
-        <quote xml:lang="syr">ܨܠܘ ܥܠ ܡ̇ܢ ܕܟܬ̣ܒ ܕܢܬܚܢܢ ܒܝܘܡ ܕܝܢ̣ܐ.</quote>
-    </p>
-</item>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="2" xml:id="p1addition2">
-    <locus from="108a" to="108a"/>
-    <ref target="#p1a1 #p1handnote5"/>
-    <p>A note on fol. <locus>108a</locus>, states that the manuscript was written for the monks of the <placeName>convent of Nātphā</placeName>,  near <placeName>Māridīn</placeName>, at the expense of the priest <listPerson>
-            <person ref="">
-                <persName>Julian</persName>
-                <persName xml:lang="syr">ܢܘܢܝܐ</persName>
-            </person>
-        </listPerson>, and
-                                            of the deacons <persName>George</persName> and <persName>Dādā</persName>, visitors (<quote xml:lang="syr">ܣܳܥܽܘܪܳܐ</quote>,
-                                        <quote xml:lang="grc">περιοδευτής</quote>) of the said convent. See <bibl>Assemani, Bibl. Or., t. ii., Dissert. de
-                                            Monophysitis, art. ix., Monasterium Nataphae.</bibl>
-    </p>
-    <p>
-        <quote xml:lang="syr">ܐܬܚܦܛܘ ܘܥܒ̣ܕܘ ܟܬܒܐ ܗܢܐ ܡܢ ܥܡܠܗܘܢ ܘܡܢ
+﻿<html>
+    <head>
+        <title>Julius Caesar</title>
+    </head>
+    <body>Manuscript URI:  http://syriaca.org/manuscript/1/source<h1>See additions.</h1>
+        <h1>See below.</h1>
+        <h1>
+            <p>The doxology,</p>
+            <p><br /><br />ܫܘܒܚܐ ܠܬܠܝܬܝܘܬܐ̇ ܣܓܝܕܬ ܡܢ ܟܠ̣ ܐܡܝܼܢ ܘܐܡܝܢ܆,</p>
+            <p>and in a more cursive character the words</p>
+            <p><br /><br />ܨܠܘ ܥܠ ܡ̇ܢ ܕܟܬ̣ܒ ܕܢܬܚܢܢ ܒܝܘܡ ܕܝܢ̣ܐ.</p>
+        </h1><br />
+        <h1>
+            <p>A note on fol. 108a, states that the manuscript was written for the monks of the <a href="">convent of Nātphā</a>,  near <a href="">Māridīn</a>, at the expense of the priest <a href="">Julian</a><a href="">ܢܘܢܝܐ</a>, and
+                                            of the deacons <a href="">George</a> and <a href="">Dādā</a>, visitors (<br /><br />ܣܳܥܽܘܪܳܐ,
+                                        <br /><br />περιοδευτής) of the said convent. See Assemani, Bibl. Or., t. ii., Dissert. de
+                                            Monophysitis, art. ix., Monasterium Nataphae.</p>
+            <p><br /><br />ܐܬܚܦܛܘ ܘܥܒ̣ܕܘ ܟܬܒܐ ܗܢܐ ܡܢ ܥܡܠܗܘܢ ܘܡܢ
                                             ܛܝܒܘܬܐ ܕܐܠܗܐ ܕܐܬܬ ܒܐ̈ܝܕܝܗܘܢ. ܠܟܢܘܫܝܐ ܩܕܝܫܐ ܕܝܚܝ̈ܕܝܐ
                                             ܕܢܛܦܐ ܕܒܛܘܪܐ ܡܪܕܐ. ܩܫܝܫܐ ܝܘܠܝܢܐ ܢܘܢܝܐ. ܘܓܐܘܪܓܝ ܘܕܕܐ
                                             ܡܫܡ̈ܫܢܐ ܘܣܥܘܪ̈ܐ ܕܝܠܗ ܕܟܢܘܫܝܐ. ܕܟܠ ܩ̇ܪܐ ܒܗ ܢܨܠܐ ܥܠܝܗܘܢ
                                             ܘܥܠ ܟܠ ܕܐܝܬ ܠܗ ܒܗ ܫܘܬܦܘܬܐ ܐܢ ܒܩܠܝܠ ܘܐܢ ܒܣܓܝ. ܕܐܠܗܐ ܗ̇ܘ
                                             ܕܡܛܠ ܫܡܗ ܐܬܚܦܛܘ ܘܣܡܘ ܣܝܡܬܐ ܗܕܐ̣. ܗ̣ܘ ܢܫܘܐ ܐܢܘܢ ܠܡܢܬܐ
                                             ܘܠܝܪܬܘܬܐ ܕܡܛܬ ܠܩܕܝ̈ܫܐ ܒܢܘܗܪܐ. ܒܨ̈ܠܘܬܐ ܕܟܠܗܘܢ ܕܥܒ̣ܕܘ
-                                            ܘܥܒܕܝܢ ܨܒܝܢܗ ܕܐܠܗܐ ܠܥܠܡܝܢ.</quote>
-    </p>
-</item>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="3" xml:id="p1addition3">
-    <locus from="108a" to="108a"/>
-    <ref target="p1a1 #p1handnote5"/>
-    <p>What originally followed has been
+                                            ܘܥܒܕܝܢ ܨܒܝܢܗ ܕܐܠܗܐ ܠܥܠܡܝܢ.</p>
+        </h1><br />
+        <h1>
+            <p>What originally followed has been
                                             erased, and in its place we read, in the handwriting of
-                                            <persName ref="http://syriaca.org/person/647">Moses of Nisibis</persName>, abbat of the <placeName>convent of S. Mary
-                                                Deipara</placeName> in the <placeName>desert of Scete</placeName>
-        <date>(A. Gr. 1243,</date>
-        <date> A.D. 932)</date>,
+                                            <a href="">Moses of Nisibis</a>, abbat of the <a href="">convent of S. Mary
+                                                Deipara</a> in the <a href="">desert of Scete</a>(A. Gr. 1243, A.D. 932),
                                             that this book was procured by him for the library of the said convent.
                                             See the notes in his handwriting in many other volumes
-                                            of this collection, and also <bibl>Assemani, Bibl. Or. t. i.
-                                            p. 83, t. ii. p. 118;</bibl>
-        <bibl>Cureton, the Festal Letters of
-                                            Athanasius, preface, p. xxiv., note.</bibl>
-    </p>
-    <p>
-        <quote xml:lang="syr">ܐܝܬܘܗܝ ܟܬܒܐ ܗܢܐ ܕܕܝܪܐ ܕܝܕܬ ܐܠܗܐ
+                                            of this collection, and also Assemani, Bibl. Or. t. i.
+                                            p. 83, t. ii. p. 118;Cureton, the Festal Letters of
+                                            Athanasius, preface, p. xxiv., note.</p>
+            <p><br /><br />ܐܝܬܘܗܝ ܟܬܒܐ ܗܢܐ ܕܕܝܪܐ ܕܝܕܬ ܐܠܗܐ
                                             ܕܣܘܪ̈ܝܝܐ ܕܒܡܕܒܪܐ ܕܐܣ̈ܩܝܛܐ ܕܩܢܝܗܝ ܠܗ̇ 
-                                            <persName xml:lang="syr" ref="http://syriaca.org/person/647">ܡܘܫܐ ܢܨܝܒܝܢܝܐ
-                                            ܪܝܫܕܝܪܐ</persName>.
+                                            <a href="">ܡܘܫܐ ܢܨܝܒܝܢܝܐ
+                                            ܪܝܫܕܝܪܐ</a>.
                                             ܘܐܚܪܡܬ ܒܡܠܬܐ ܕܐܠܗܐ ܥܠ ܟܠ ܕܠܚܐ ܠܥܘܗܕܢܐ ܗܢܐ ܐܘ
                                             ܡܘܒܕ ܘܡܫܓܢܐ ܠܟܬܒܐ ܗܢܐ ܡܢܗ̇ ܕܕܝܪܐ ܒܚܕ ܡܢ ܙܢܝ̈ܢ. ܘܡ̇ܢ ܕܣܥܐ
                                             ܥܠ ܗܠܝܢ܆ ܚܪܡܗ ܕܐܠܗܐ ܘܪܘܓܙܗ ܘܠܘܛܬܗ ܢܗܘܘܢ ܥܠܘܗܝ. ܘܟܠ ܕܢܛܪ
                                             ܡܠܬܐ ܕܐܠܗܐ ܘܠܐ ܣܥܐ ܐܠܗܐ ܢܚܣܐ ܠܗ ܘܠܥܢܝ̈ܕܘܗܝ ܘܠܝ ܡܘܫܐ ܚܛܝܐ
-                                            ܒ̈ܨܠܘܬܐ ܕܝܠܕܬ ܐܠܗܐ ܘܩܕ̈ܝܫܐ ܐܡܝܢ♱ </quote>
-    </p>
-</item>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="1" xml:id="p2addition1">
-    <locus from="169b" to="169b"/>
-    <ref target="#p2a1 #p2handnote2"/>
-</item>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/100/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#p3addition1"/>See additions.</colophon>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="1" xml:id="p3addition1">
-    <p>On the margin in an old Arabic hand: <quote xml:lang="ar"><!--NEEDS ARABIC--></quote>
-    </p>
-</item>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/1002/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/1003/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/1004/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/1005/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/103/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/104/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/105/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/106/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/109/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="p4addition1">See below.
-                  </ref>
-</colophon>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="1" xml:id="p4addition1">
-    <locus from="144a" to="144a"/>
-    <p>On fol. 144a there is the colophon:</p>
-    <p>
-        <quote xml:lang="syr">ܫܠܡ ܠܡܟܬܒ ܒܟܬܒܐ ܗܢܐ ܟܬܒܐ ܕܬܪ̈ܥܣܪ ܢܒ̈ܝܐ</quote>,</p>
-    <p>which is followed by the usual doxology.</p>
-</item>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/1110/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="">See additions.</ref>
-</colophon>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/1112/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/1116/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/1118/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/114/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/1153/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition1">See below.</ref>
-</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition1">See below.</ref>
-</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition2">See below.</ref>
-</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition5">See below.</ref>
-</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition2">See below.</ref>
-</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition5">See below.</ref>
-</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition6">See below.</ref>
-</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition6">See below.</ref>
-</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition3">See below.</ref>
-</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition4">See below.</ref>
-</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition7">See below.</ref>
-</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition7">See below.</ref>
-</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition3">See below.</ref>
-</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition3">See below.</ref>
-</colophon>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="1" xml:id="addition1">
-    <label/>
-    <locus from="47b">Fol. 47b</locus>
-    <quote xml:lang="syr">
-        <ref target="#Abr_b_Yesh"/>
-        <ref target="#handnote1"/>ܘܐܬܟ̣ܬܒ ܥܠ ܐܝܼܕܘ̈ܗܝ ܕܚܛܝܐ ܘܡܚܝܼܠܐ ܐܒܪܗܡ ܕܘ̇ܝܐ ܒܪ ܡܲܩܕܫܝܐ ܡܢܚܐ
+                                            ܒ̈ܨܠܘܬܐ ܕܝܠܕܬ ܐܠܗܐ ܘܩܕ̈ܝܫܐ ܐܡܝܢ♱ </p>
+        </h1><br />
+        <h1></h1><br />Manuscript URI:  http://syriaca.org/manuscript/100/source<h1>See additions.</h1>
+        <h1>
+            <p>On the margin in an old Arabic hand: <br /><br />
+            </p>
+        </h1><br />Manuscript URI:  http://syriaca.org/manuscript/1002/sourceManuscript URI:  http://syriaca.org/manuscript/1003/sourceManuscript URI:  http://syriaca.org/manuscript/1004/sourceManuscript URI:  http://syriaca.org/manuscript/1005/sourceManuscript URI:  http://syriaca.org/manuscript/103/sourceManuscript URI:  http://syriaca.org/manuscript/104/sourceManuscript URI:  http://syriaca.org/manuscript/105/sourceManuscript URI:  http://syriaca.org/manuscript/106/sourceManuscript URI:  http://syriaca.org/manuscript/109/source<h1>See below.
+                  </h1>
+        <h1>
+            <p>On fol. 144a there is the colophon:</p>
+            <p><br /><br />ܫܠܡ ܠܡܟܬܒ ܒܟܬܒܐ ܗܢܐ ܟܬܒܐ ܕܬܪ̈ܥܣܪ ܢܒ̈ܝܐ,</p>
+            <p>which is followed by the usual doxology.</p>
+        </h1><br />Manuscript URI:  http://syriaca.org/manuscript/1110/source<h1>See additions.</h1>Manuscript URI:  http://syriaca.org/manuscript/1112/sourceManuscript URI:  http://syriaca.org/manuscript/1116/sourceManuscript URI:  http://syriaca.org/manuscript/1118/sourceManuscript URI:  http://syriaca.org/manuscript/114/sourceManuscript URI:  http://syriaca.org/manuscript/1153/source<h1>See below.</h1>
+        <h1>See below.</h1>
+        <h1>See below.</h1>
+        <h1>See below.</h1>
+        <h1>See below.</h1>
+        <h1>See below.</h1>
+        <h1>See below.</h1>
+        <h1>See below.</h1>
+        <h1>See below.</h1>
+        <h1>See below.</h1>
+        <h1>See below.</h1>
+        <h1>See below.</h1>
+        <h1>See below.</h1>
+        <h1>See below.</h1>
+        <h1>Fol. 47b<br /><br />ܘܐܬܟ̣ܬܒ ܥܠ ܐܝܼܕܘ̈ܗܝ ܕܚܛܝܐ ܘܡܚܝܼܠܐ ܐܒܪܗܡ ܕܘ̇ܝܐ ܒܪ ܡܲܩܕܫܝܐ ܡܢܚܐ
                                             ܝܫܘܥ̇ ܕܐܬܩܪܝ ܓ݂ܙܘܝ ܡܢ ܩܨܘܪ ܐܬܪܐ
-                                        ܕܡܪܕܐ ܐܘܟܝܬ ܡܐܪܕܝܢ ܡܕܝܢܬܐ. </quote>
-</item>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="1" xml:id="addition1">
-    <label/>
-    <locus from="47b">Fol. 47b</locus>
-    <quote xml:lang="syr">
-        <ref target="#Abr_b_Yesh"/>
-        <ref target="#handnote1"/>ܘܐܬܟ̣ܬܒ ܥܠ ܐܝܼܕܘ̈ܗܝ ܕܚܛܝܐ ܘܡܚܝܼܠܐ ܐܒܪܗܡ ܕܘ̇ܝܐ ܒܪ ܡܲܩܕܫܝܐ ܡܢܚܐ
+                                        ܕܡܪܕܐ ܐܘܟܝܬ ܡܐܪܕܝܢ ܡܕܝܢܬܐ. </h1><br />
+        <h1>Fol. 47b<br /><br />ܘܐܬܟ̣ܬܒ ܥܠ ܐܝܼܕܘ̈ܗܝ ܕܚܛܝܐ ܘܡܚܝܼܠܐ ܐܒܪܗܡ ܕܘ̇ܝܐ ܒܪ ܡܲܩܕܫܝܐ ܡܢܚܐ
                                             ܝܫܘܥ̇ ܕܐܬܩܪܝ ܓ݂ܙܘܝ ܡܢ ܩܨܘܪ ܐܬܪܐ
-                                        ܕܡܪܕܐ ܐܘܟܝܬ ܡܐܪܕܝܢ ܡܕܝܢܬܐ. </quote>
-</item>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="2" xml:id="addition2">
-    <label/>
-    <locus from="77a">Fol. 77a</locus>
-    <quote xml:lang="syr">
-        <ref target="#Abr_b_Yesh"/>
-        <ref target="#handnote1"/> ܘܨܠܘ ܥܠ ܐܒܪܗܡ ܚܲܛܝܐ ܒܪ
+                                        ܕܡܪܕܐ ܐܘܟܝܬ ܡܐܪܕܝܢ ܡܕܝܢܬܐ. </h1><br />
+        <h1>Fol. 77a<br /><br /> ܘܨܠܘ ܥܠ ܐܒܪܗܡ ܚܲܛܝܐ ܒܪ
                                         ܡܩܕܫܝܐ ܝܫܘܥ ܡܢ ܡܕܢܚܐ ܐܬܪܐ ܕܡܪܕܝܢ ܡܕܝܢܬܐ ܡܢ ܩܪܝܬܐ ܡܒܪܟܬܐ ܩܨܘܪ
                                         ܟ̣ܬܒܬܗ ܠܟܬܒܐ ܗܢܐ ܒܐܘܪܫܠܡ ܡܕܝܢܬܗ ܕܡܟܠܐ ܪܒܐ ܒܕܝܪܐ ܩܕܝܫܬܐ
-                                        ܕܝܿܠܕܬ݀ ܐܠܗܐ ܡܪܝܡ ܕܡܬܟܲܢܐ ܕܒܝܬ ܡܪܩܘܣ.. </quote>
-</item>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="5" xml:id="addition5">
-    <label/>
-    <locus from="77a">Fol. 77a</locus>
-    <quote xml:lang="ara-syrc">
-        <ref target="#Serg_al-Jub"/> ܝܩܘܠ ܐܠܚܩܝܪ ܣܪܓܝܣ
+                                        ܕܝܿܠܕܬ݀ ܐܠܗܐ ܡܪܝܡ ܕܡܬܟܲܢܐ ܕܒܝܬ ܡܪܩܘܣ.. </h1><br />
+        <h1>Fol. 77a<br /><br /> ܝܩܘܠ ܐܠܚܩܝܪ ܣܪܓܝܣ
                                         ܘܐܛܥ ܐܣܡܗ ܐܠܓܒܝܠܝ ܐܢܢܝ ܐܣܬܒܕܠܬ ܗܕܐ ܟܬܐܒ ܐܠܥܬܝܩܗ ܟܠܗ ܟ݂ܛ
                                         ܣܪܝܐܢܝ ܦܝ ܢܨܟܬܗ ܟ݂ܛ ܝܕܝ ܡܦܣܪ ܟ݂ܛ ܐܟܪܫܘܢܝ ܘܐܠܠܗ ܥܠܝ ܡܐ ܢܩܘܠ
                                         ܘܟܝܠ ܫܐܗܕ ܚܩ ܒܚܛܪܗ̈ ܐܟ݂ܘܬܝ ܡܛܪܢ ܝܘܢܢ ܘܡܛܪܐܢ ܝܘܣܦ ܟ݂ܘܪܝ ܝܚܢܐ
                                         ܟ݂ܘܪܝ ܐܢܛܘܢܝܘܣ ܘܒܐܩܝ ܐܠܐܟ݂ܘܗ ܐܠܠܗ ܝܟ݂ܠܨܗܡ ܐܡܝܢ:
-                                    </quote>
-</item>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="2" xml:id="addition2">
-    <label/>
-    <locus from="77a">Fol. 77a</locus>
-    <quote xml:lang="syr">
-        <ref target="#Abr_b_Yesh"/>
-        <ref target="#handnote1"/> ܘܨܠܘ ܥܠ ܐܒܪܗܡ ܚܲܛܝܐ ܒܪ
+                                    </h1><br />
+        <h1>Fol. 77a<br /><br /> ܘܨܠܘ ܥܠ ܐܒܪܗܡ ܚܲܛܝܐ ܒܪ
                                         ܡܩܕܫܝܐ ܝܫܘܥ ܡܢ ܡܕܢܚܐ ܐܬܪܐ ܕܡܪܕܝܢ ܡܕܝܢܬܐ ܡܢ ܩܪܝܬܐ ܡܒܪܟܬܐ ܩܨܘܪ
                                         ܟ̣ܬܒܬܗ ܠܟܬܒܐ ܗܢܐ ܒܐܘܪܫܠܡ ܡܕܝܢܬܗ ܕܡܟܠܐ ܪܒܐ ܒܕܝܪܐ ܩܕܝܫܬܐ
-                                        ܕܝܿܠܕܬ݀ ܐܠܗܐ ܡܪܝܡ ܕܡܬܟܲܢܐ ܕܒܝܬ ܡܪܩܘܣ.. </quote>
-</item>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="5" xml:id="addition5">
-    <label/>
-    <locus from="77a">Fol. 77a</locus>
-    <quote xml:lang="ara-syrc">
-        <ref target="#Serg_al-Jub"/> ܝܩܘܠ ܐܠܚܩܝܪ ܣܪܓܝܣ
+                                        ܕܝܿܠܕܬ݀ ܐܠܗܐ ܡܪܝܡ ܕܡܬܟܲܢܐ ܕܒܝܬ ܡܪܩܘܣ.. </h1><br />
+        <h1>Fol. 77a<br /><br /> ܝܩܘܠ ܐܠܚܩܝܪ ܣܪܓܝܣ
                                         ܘܐܛܥ ܐܣܡܗ ܐܠܓܒܝܠܝ ܐܢܢܝ ܐܣܬܒܕܠܬ ܗܕܐ ܟܬܐܒ ܐܠܥܬܝܩܗ ܟܠܗ ܟ݂ܛ
                                         ܣܪܝܐܢܝ ܦܝ ܢܨܟܬܗ ܟ݂ܛ ܝܕܝ ܡܦܣܪ ܟ݂ܛ ܐܟܪܫܘܢܝ ܘܐܠܠܗ ܥܠܝ ܡܐ ܢܩܘܠ
                                         ܘܟܝܠ ܫܐܗܕ ܚܩ ܒܚܛܪܗ̈ ܐܟ݂ܘܬܝ ܡܛܪܢ ܝܘܢܢ ܘܡܛܪܐܢ ܝܘܣܦ ܟ݂ܘܪܝ ܝܚܢܐ
                                         ܟ݂ܘܪܝ ܐܢܛܘܢܝܘܣ ܘܒܐܩܝ ܐܠܐܟ݂ܘܗ ܐܠܠܗ ܝܟ݂ܠܨܗܡ ܐܡܝܢ:
-                                    </quote>
-</item>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="6" xml:id="addition6">
-    <label/>
-    <locus from="105a">Fol. 105a</locus>
-    <quote xml:lang="ara-syrc">
-        <ref target="#Serg_al-Jub"/> ܝܘܩܠ ܐܠܚܩܝܪ ܣܪܓܝܣ
+                                    </h1><br />
+        <h1>Fol. 105a<br /><br /> ܝܘܩܠ ܐܠܚܩܝܪ ܣܪܓܝܣ
                                         ܐܠܓܒܝܠܝ ܘܐܛܥ ܐܣܡܗ ܐ܏ܠܟ
-                                    </quote>
-</item>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="6" xml:id="addition6">
-    <label/>
-    <locus from="105a">Fol. 105a</locus>
-    <quote xml:lang="ara-syrc">
-        <ref target="#Serg_al-Jub"/> ܝܘܩܠ ܐܠܚܩܝܪ ܣܪܓܝܣ
+                                    </h1><br />
+        <h1>Fol. 105a<br /><br /> ܝܘܩܠ ܐܠܚܩܝܪ ܣܪܓܝܣ
                                         ܐܠܓܒܝܠܝ ܘܐܛܥ ܐܣܡܗ ܐ܏ܠܟ
-                                    </quote>
-</item>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="3" xml:id="addition3">
-    <label/>
-    <p>
-        <ref target="#Abr_b_Yesh"/>See also <locus from="165b">Foll. 165b</locus> and <locus from="320a">320a</locus>.</p>
-</item>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="4" xml:id="addition4">
-    <label/>
-    <locus from="199-200">Foll. 199-200</locus>
-    <quote xml:lang="syr">
-        <ref target="#Ant_Jerus"/> ܘܨܰܠܰܘ ܥܰܠ ܐܠܺܝܠܐ
+                                    </h1><br />
+        <h1>
+            <p>See also Foll. 165b and 320a.</p>
+        </h1><br />
+        <h1>Foll. 199-200<br /><br /> ܘܨܰܠܰܘ ܥܰܠ ܐܠܺܝܠܐ
                                         ܐܢܛܘܢܝܘܣ ܨܗܝܘܢܝܐ ܕܟܬ݂ܒ ܡܛܠ ܡܪܢ ܘܗܼܘ ܢܚܣܐ ܠܟܘܢ ܐܰܡܺܝܢ.
-                                    </quote>
-</item>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="7" xml:id="addition7">
-    <label/>
-    <locus from="219a">Fol. 219a</locus>
-    <quote xml:lang="ara-syrc">
-        <ref target="#Serg_al-Jub"/> ܝܘܐܠܟܬܐܒ ܒܪܣܡ
+                                    </h1><br />
+        <h1>Fol. 219a<br /><br /> ܝܘܐܠܟܬܐܒ ܒܪܣܡ
                                         ܐܠܚܩܝܪ ܣܪܓܝܣ ܘܐܟܘܬܗ ܡܛܪܐܢ ܝܘܢܢ ܡܛܪܐܢ ܝܘܣܦ: ܘܐܘܠܐܕ ܐܟ݂ܝ ܟ݂ܘܪܝ
                                         ܝܚܢܐ ܫܡܐܣ ܒܘܠܨ ܫܡܐܣ ܣܡܥܐܢ ܐܠܠܗ ܝܚܦܛܗܡ ܐܡܝܢ܀
-                                    </quote>
-</item>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="7" xml:id="addition7">
-    <label/>
-    <locus from="219a">Fol. 219a</locus>
-    <quote xml:lang="ara-syrc">
-        <ref target="#Serg_al-Jub"/> ܝܘܐܠܟܬܐܒ ܒܪܣܡ
+                                    </h1><br />
+        <h1>Fol. 219a<br /><br /> ܝܘܐܠܟܬܐܒ ܒܪܣܡ
                                         ܐܠܚܩܝܪ ܣܪܓܝܣ ܘܐܟܘܬܗ ܡܛܪܐܢ ܝܘܢܢ ܡܛܪܐܢ ܝܘܣܦ: ܘܐܘܠܐܕ ܐܟ݂ܝ ܟ݂ܘܪܝ
                                         ܝܚܢܐ ܫܡܐܣ ܒܘܠܨ ܫܡܐܣ ܣܡܥܐܢ ܐܠܠܗ ܝܚܦܛܗܡ ܐܡܝܢ܀
-                                    </quote>
-</item>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="3" xml:id="addition3">
-    <label/>
-    <p>
-        <ref target="#Abr_b_Yesh"/>See also <locus from="165b">Foll. 165b</locus> and <locus from="320a">320a</locus>.</p>
-</item>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="3" xml:id="addition3">
-    <label/>
-    <p>
-        <ref target="#Abr_b_Yesh"/>See also <locus from="165b">Foll. 165b</locus> and <locus from="320a">320a</locus>.</p>
-</item>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/117/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition1">See additions.</ref>
-</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition2">See additions.</ref>
-</colophon>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="1" xml:id="addition1">
-    <locus from="3a" to="3a"/>
-    <ref target="#a1 #handNote3"/>
-    <p>A note on the margin of fol. 3 a states that <ref target="#a1">this index</ref> was drawn up by one <persName ref="">Severus</persName>, with the aid of the priest <persName ref="">John</persName> and the deacon and steward <persName ref="">Romanus</persName>:</p>
-    <p>
-        <quote xml:lang="syr">ܟܠ ܕܩ̇ܪܐ ܒܟܬܒܐ ܗܢܐ ܡܛܠ ܚܘܒܗ ܕܡܪܢ̣. ܢ̇ܨܠܐ ܥܠ ܣܐܘܪܐ ܚܛܝܐ ܘܡܚܝܠܐ ܕܣ̣ܡ ܦܘܪܫ ܩܪ̈ܝܢܐ ܗܠܝܢ ܕܐܝܟ ܡܫܠܡܢܘܬܐ ܕܫܒܥܝܢ ܐܬܬܪܨܘ.♱ ܘܥܠ ܩܫܝܫܐ ܡܪܝ ܝܘܚܢܢ ܘܫܡ̇ܫܐ ܡܪܝ ܪܘܡܢܐ ܪܒܝܬܐ̇. ܕܐܝܟ ܚܝܠܐ ܕܝܠܗܘܢ ܥܿܕܪܘܢ♱</quote>
-    </p>
-</item>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="2" xml:id="addition2">
-    <locus from="48a" to="48a"/>
-    <ref target="#a2 #handNote1"/>
-    <p>On fol. 48 a there is the following note, in the handwriting of the scribe, saying that the manuscript was written in the year <origDate when-custom="0843" calendar="Seleucid">843</origDate>, <origDate when="0532" calendar="Gregorian">A.D. 532</origDate>, and collated with care in the <origPlace ref="">convent of the Orientals (at Edessa?)</origPlace>. Part of it has been intentionally erased.</p>
-    <p>
-        <quote xml:lang="syr">ܐܬܟܬܒ ܕܝܢ ܟܬܒܐ ܗܢܐ ܒܝܘܡܝ ܩܕܝܫܐ ܘܪܚܡ ܐܠܗܐ ܡܪܝ [ܣܒܝ . . ܪܝܫ ܕܝܪܐ ܘܩܫܝܫܐ ܢܘܗܪܐ ܕܕܝܪܐ ܕܒܝܬ. . . ] ܘܫܪܟܐ ܕܟܠܗܘܢ ܕܒܝܬ ܡܪܝ. ܘ. ܐܫܬܠܡ ܕܝܢ ܟܬܒܐ ܗܢܐ ܒܝܪܚ ܐܝܪ ܒܥܣܪ̈ܝܢ ܘܬܡ̈ܢܝܐ ܒܗ. ܕܫܢܬ ܬܡܢܡ̈ܐܐ ܘܐܪ̈ܒܥܝܢ ܘܬܠܬ ܗܢܕܩܛܝܘܢܐ ܕܕܩܛܐ. ܡܦܚܡ ܕܝܢ ܟܬܒܐ ܗܢܐ ܒܕܝܪܐ ܕܡ̈ܕܢܚܝܐ ܒܫܩܠ ܛܥܢܐ.</quote>
-    </p>
-</item>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/118/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/119/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/12/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/120/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition4">See below.
-                  </ref>
-</colophon>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="4" xml:id="addition4">
-    <locus from="209b" to="209b"/>
-    <ref target="#a1 #handNote1"/>
-    <p>The date, about which there is a slight difficulty, is given as follows:</p>
-    <p>
-        <quote xml:lang="syr">ܐܫܬܸܪܝܬ ܕܝܢ ܚܕܬܐ ܗܕܐ ܒܪܫܗ ܕܐܝܠܘܢ(sic) ܀ ܘܐܫܬܠܡܬ ܟܕ ܢܦܝܩܝܢ ܡܢ ܫܒܛ ܥܣܪܐ ܝܘ̈ܡܝܢ܀ ܒܫܢܬ ܐܠܦܐ ܘܬܪ . . . ܒܡܢܝܢܐ ܝܕܝܥܐ ܕܝܘ̈ܢܝܐ. ܕܐܝܬܝܗ̇ ܒܕ̈ܛܝܝܐ ܬܡـ. . . ܢ ܒܡܠܟܘܬܐ ܕܒܝܬ ܡܪܘܢ܀ ܒܝܘ̈ܡܝ. . .  ܥܠܝ̈ܐ</quote>
-    </p>
-    <p>"<ref target="#a1">This New (Testament)</ref> was begun on the first of Ilūn (Ilūl), and finished when ten days of Shěbāt were passed; in the year <origDate when-custom="1012" datingMethod="Seleucid">1012</origDate>, according to the well-known era of the Greeks, which is, according to that of the Arabs, <origDate when-custom="0080" datingMethod="Hijri-qamari">80</origDate>; under the rule of the house of  <persName ref="">Marwān</persName>, in the days of …. [the Ishma]elites."</p>
-    <p>Neither the mīm in the word ܬܡـ . . . ܢ , nor the rīsh in ܘܬܪ, is perfectly certain; but still there can be little doubt that the book was written in the reign of <persName ref="">'Abdu ‘l-Malik ibn Marwān</persName>, for <origDate when-custom="0080" datingMethod="Hijri-qamari">A. H. 80</origDate>=<origDate notBefore="0699" notAfter="0700" calendar="Gregorian">A. D. 699-700</origDate> = <origDate notBefore-custom="1011" notAfter-custom="1012" datingMethod="Seleucid">A. Gr. 1011-12</origDate>.</p>
-</item>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/121/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/122/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/126/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/127/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/128/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/129/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/13/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/130/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition4">See additions.</ref>
-</colophon>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="4" xml:id="addition4">
-    <locus from="200b" to="200b"/>
-    <p>On fol. 200 b, at the end of <ref target="#b4">the Gospel of S. John</ref>, there is a note, unfortunately mutilated, stating that the last two leaves were written by one <persName ref="">Gabriel of Edessa</persName>: </p>
-    <p>
-        <quote xml:lang="syr">ܨܠܘ ܥܠ ܚܛܝܐ . . . ܓܒܪܝܠ ܒܪ ܡـ . . . ܐ ܩܝܢܝܐ ܡܢ ܐܘܪܗܝ ܡـ[ܕܝܢܬܐ ܪܚܡܬ] ܠܡܫܝܚܐ ܕܢܚܣܐ ܠܗ ܡܪܝܐ ܘ . . . ܘܝܐ ܘܠܟܬܘܒܐ ܘ܏ܫ.</quote>
-    </p>
-</item>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/131/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition5 #addition6">See additions.</ref>
-</colophon>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="5" xml:id="addition5">
-    <locus from="157b" to="157b"/>
-    <p>On fol. 157 b there is a note, in the handwriting of the scribe, stating that this book was collated by <persName ref="">Kashīsh</persName>, the Arab, priest of the district called <placeName ref="">Nahrā dě-Kastra</placeName>, along with his syncelli <persName ref="syr">John bar Daniel</persName>, the Arab, and <persName ref="">John</persName>, the deacon, of <placeName ref="" xml:lang="syr">ܐܘܢܡܪܐ</placeName>, who was also of Arab race. </p>
-    <p>
-        <quote xml:lang="syr">ܢܥܒܕ ܡܪܢ ܪ̈ܚܡܐ ܘܚܢܢܐ ܒܝܘܡܐ ܪܒܐ ܕܡܐܬܝܬܗ܆ ܥܠ ܟܠ ܡܢ ܕܦܚܡ ܟܬܒܐ ܗܢܐ ܘܗ̣ܘܐ ܠܗ ܫܩ̣ܠ ܛܥܢܐ ܡܛܠ ܦܘܚܡܗ ܕܡܢ ܛܥܘ̈ܢܐ. ܦܚܡܘܗܝ ܕܝܢ ܒܫܩ̣ܠ ܛܥܢܐ ܣܓܝܐܐ̣. ܡܪܝ ܩܫܝܫ ܛܝܝܐ ܩܫܝܫܐ ܕܢܗܪܐ ܕܩܣܛܪܐ̣. ܥܡ ܒ̈ܢܝ ܩܠܝܬܗ ܕܝܨܦܘ ܥܡܗ. ܡܪܝ ܝܘܚܢܢ ܛܝܝܐ ܒܪ ܕܢܝܐܝܠ̣. ܘܡܪܝ ܝܘܚܢܢ ܫܡܫܐ ܕܡܢ ܐܘܢܡܪܐ̇. ܥܪܒܝܐ ܕܝܢ ܐܝܘܘܗܝ ܒܓܢܣܗ. ܕܐܠܗܐ ܗ̇ܘ ܕܡܛܠ ܫܡܗ ܝܨܦܘ ܡܛܠ ܦܘܚܡܗ ܕܟܬܒܐ ܗܢܐ̣. ܗ̣ܘ ܢܬܠ ܠܗܘܢ ܦܘܪܥܢܐ ܛܒ̇ܐ̣ ܘ܏ܫ</quote>
-    </p>
-</item>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="6" xml:id="addition6">
-    <locus from="157b" to="157b"/>
-    <p>The name of the scribe appears to have been <persName ref="">David</persName>, for under <ref target="#addition5">the above note</ref> we read:</p>
-    <p>
-        <quote xml:lang="syr">ܒܡܪܢ ܣܒܪܢ ܟܠ ܡܢ ܕܩ̇ܪܐ ܢܨܠܐ [ܥܠ add] ܕܘܝܕ ܚܛܝܐ. . ܕܥܠ ܛܘܢܢܐ  ܕܟܬܒܐ ܗܢܐ. ܘ. </quote>
-    </p>
-</item>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/132/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/135/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition3">See additions.</ref>
-</colophon>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="3" xml:id="addition3">
-    <locus from="104a" to="104a"/>
-    <p>At the end of the subscription to <ref target="#b4">the last Gospel</ref>, fol. 104 a, we have the doxology: </p>
-    <p>
-        <quote xml:lang="syr">ܫܘܒܚܐ ܡܢ ܟܠ ܥܠ ܟܠ ܠܡܪܝܐ ܟܠ ܡܫܡܠܐ ܟܠ ܒܫܘܡܠܝܗ ܐܡܝܢ.</quote>
-    </p>
-</item>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/136/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/139/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition3">See below.</ref>
-</colophon>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="3" xml:id="addition3">
-    <locus from="68a" to="68a"/>
-    <p>At the foot of fol. 68a, after the doxology, stand the words</p>
-    <p>
-        <quote xml:lang="syr">ܢܘܢܐ ܟܬ݁[ܒܬ]</quote>,</p>
-    <p>
-        <quote>“I <persName ref="">Nonnus</persName>, have written,"</quote>
-    </p>
-    <p>separated by an ornament.</p>
-</item>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/140/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/141/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/142/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/148/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/149/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/152/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition1">See below.</ref>
-</colophon>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="1" xml:id="addition1">
-    <locus from="205" to="205"/>
-    <p>At the end of <ref target="#b4">the Gospel of S. John</ref>, after the subscription, stands the following doxology:</p>
-    <p>
-        <quote xml:lang="syr">
-            <sic>ܫܘܒܐ  ܠܐܒܐ: ܕܥܕܪ ; ܘܠܒܪܐ: ܕܣܝ̇ܥ ܘܠܪܘܚܐ. ܩܕܝܫܐ. ܕܫ̇ܡܠ̣ܝ</sic>
-        </quote>
-    </p>
-    <p>which is followed by the words:</p>
-    <p>
-        <quote xml:lang="syr">ܐܝܬܘܗܝ ܕܝܢ. ܟܬܒܐ. ܗܢܐ. ܕܐܪ̈ܒܥܐ ܐܘܢ̈ܓܠܣܛܐ ܩ̈ܕܝܫܐ. ܕܐܬܦܫܩܘ. ܡܢ. ܠܫܢܐ ܝܘܢܝܐ. ܠܣܘܪܝܝܐ. ܒܚܬܝܬܘܬܐ. ܣܓܝܐܬܐ. ܘܒܫܩܠ ܛܥܢܐ. ܪܒܐ.</quote>
-    </p>
-</item>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/153/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition1">See below.
-                     </ref>
-</colophon>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="1" xml:id="addition1">
-    <locus from="1b" to="1b"/>
-    <p>The <ref target="#a1">Gospel of S. John, according to the Harklensian version</ref> is prefaced by the remark</p>
-    <p>
-        <quote xml:lang="syr">ܬܘܒ ܪܝܫܐ ܐܚܪܢܐ ܡܢ ܐܘܢܓܠܝܘܢ ܕܝܘܚܢܢ ܒܪ ܙ[ܒܕܝ.] ܗܕܐ ܣܘܢܛܟܣܝܣ ܠܘ ܒܟܠܗܘܢ ܨܚ̈ܚܐ ܡܫܬܟܚܐ. ܐܫܟܚܗ̇ ܕܝܢ ܐܒܣ ܡܪܝ ܦܘܠܐ̣ ܒܚܕ ܨܚ̈ܚܐ ܐܠܟܣܢܕܪ̈ܝܐ ܘܦܫܩܗ̇ [ܡܢ] ܝܘܢܝܐ ܠܣܘܪܝܝܐ. ܐܝܟ ܕܟܬܝܒܐ ܗܪܟܐ. ܡܢ ܐܘܢܓܠܝܘܢ ܕܝܘܚܢܢ. ܩܢܘܢ ܕܥܣܪ̈ܐ. ܡܢܝܢܐ ܕܦܣ̈ܘܩܐ܇ ܏ܨܘ: ܐܝܟ ܦܘܫܩܐ ܕܬܐܘܡܐ ܚܪܩܠܝܐ. ܐܡ̇ܪ ܢܝܩܕܡܘܣ ܠܘܬܗܘܢ. ܏ܘܫ.</quote>
-    </p>
-</item>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/154/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/155/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/156/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#p1addition5">See additions.</ref>
-</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#p2addition1">See additions.</ref>
-</colophon>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="5" xml:id="p1addition5">
-    <locus from="108" to="108"/>
-    <p>
-        <ref target="#p1a1">The Acts</ref> is followed by the short doxology:</p>
-    <p>
-        <quote xml:lang="syr">ܫܘܒܚܐ. ܠܡܪܢ. ܐܡܝܢ</quote>
-    </p>
-</item>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="1" xml:id="p2addition1">
-    <locus from="148" to="148"/>
-    <p>A note at the end states that these leaves were written by a person named <persName ref="">Lazarus</persName>:</p>
-    <p>
-        <quote xml:lang="syr">ܟܬ̣ܒ ܠܗܠܝܢ ܐܪܒܥ ܐܓܪ̈ܬܐ ܐܚܪ̈ܢܝܬܐ ܠܥܙܪ ܬܚܘܒܐ ܒܐܦ݁ . . . ܨܠܘܬܢ ܥܠܘܗܝ ܘܡܪܝܐ ܢܚܣܐ ܠܗ. ܒܝܕ ܨܠܘܬܐ . . . ܥܕܬܐ ܩܕܝܫܬܐ. ܘܠܟܠ ܕܐܡ̇ܪ ܐܡܝܢ܀ ܓܪ̈ܡܝ ܢܩܥܘܢ ܡܢ ܩܒܪܐ ܕܐܠܗܐ ܢܥ̣ـ . . . ܘܐܢ ܐܝܬ ܡܘܡܐ ܒܗܝܡܢܘܬܐܝ ܥܡ . .</quote>
-    </p>
-</item>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/159/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/160/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/161/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/162/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/163/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/164/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition7">See additions.</ref>
-</colophon>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="7" xml:id="addition7">
-    <locus from="101b" to="101b"/>
-    <p>Doxology: </p>
-    <p>
-        <quote xml:lang="syr">ܫܘܒܚܐ ܠܬܠܝܬܝܘܬܢ ܡܫܒܚܬܐ ܐܡܝܢ ܘܐܡܝܢ ܘܐܡܝܢ</quote>
-    </p>
-</item>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/165/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/166/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/169/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target=""/>See below.</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target=""/>See below.</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target=""/>See below.</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target=""/>See below.</colophon>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/233/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="">See below.<!-- The colophon is distinguished from the final rubric in that it is not necessarily about the end of the text. It may be a note about the original scribe or patron. The text of the colophon is NOT included here but below as an addition, the ref target provides the link --></ref>
-</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target=""/>See below.</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target=""/>See below.</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target=""/>See below.</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target=""/>See below.</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target=""/>See below.</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target=""/>See below.</colophon>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/336/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="">See below.<!-- The colophon is distinguished from the final rubric in that it is not necessarily about the end of the text. It may be a note about the original scribe or patron. The text of the colophon is NOT included here but below as an addition, the ref target provides the link --></ref>
-</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="">See below.<!-- The colophon is distinguished from the final rubric in that it is not necessarily about the end of the text. It may be a note about the original scribe or patron. The text of the colophon is NOT included here but below as an addition, the ref target provides the link --></ref>
-</colophon>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/359/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/383/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/4/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition4 #addition5 #addition6">See below.
-                  </ref>
-</colophon>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="4" xml:id="addition4">
-    <locus from="132b" to="132b"/>
-    <ref target="#a1 #handNote1"/>
-    <quote xml:lang="syr">ܫ̣ܠܡ ܟܬܒܐ ܕܡܦܩܢܐ̣ ܐܝܟ ܡܫܠܡܢܘܬܐ ܕܫܒܥܝܢ. . .
+                                    </h1><br />
+        <h1>
+            <p>See also Foll. 165b and 320a.</p>
+        </h1><br />
+        <h1>
+            <p>See also Foll. 165b and 320a.</p>
+        </h1><br />Manuscript URI:  http://syriaca.org/manuscript/117/source<h1>See additions.</h1>
+        <h1>See additions.</h1>
+        <h1>
+            <p>A note on the margin of fol. 3 a states that this index was drawn up by one <a href="">Severus</a>, with the aid of the priest <a href="">John</a> and the deacon and steward <a href="">Romanus</a>:</p>
+            <p><br /><br />ܟܠ ܕܩ̇ܪܐ ܒܟܬܒܐ ܗܢܐ ܡܛܠ ܚܘܒܗ ܕܡܪܢ̣. ܢ̇ܨܠܐ ܥܠ ܣܐܘܪܐ ܚܛܝܐ ܘܡܚܝܠܐ ܕܣ̣ܡ ܦܘܪܫ ܩܪ̈ܝܢܐ ܗܠܝܢ ܕܐܝܟ ܡܫܠܡܢܘܬܐ ܕܫܒܥܝܢ ܐܬܬܪܨܘ.♱ ܘܥܠ ܩܫܝܫܐ ܡܪܝ ܝܘܚܢܢ ܘܫܡ̇ܫܐ ܡܪܝ ܪܘܡܢܐ ܪܒܝܬܐ̇. ܕܐܝܟ ܚܝܠܐ ܕܝܠܗܘܢ ܥܿܕܪܘܢ♱</p>
+        </h1><br />
+        <h1>
+            <p>On fol. 48 a there is the following note, in the handwriting of the scribe, saying that the manuscript was written in the year 843, A.D. 532, and collated with care in the convent of the Orientals (at Edessa?). Part of it has been intentionally erased.</p>
+            <p><br /><br />ܐܬܟܬܒ ܕܝܢ ܟܬܒܐ ܗܢܐ ܒܝܘܡܝ ܩܕܝܫܐ ܘܪܚܡ ܐܠܗܐ ܡܪܝ [ܣܒܝ . . ܪܝܫ ܕܝܪܐ ܘܩܫܝܫܐ ܢܘܗܪܐ ܕܕܝܪܐ ܕܒܝܬ. . . ] ܘܫܪܟܐ ܕܟܠܗܘܢ ܕܒܝܬ ܡܪܝ. ܘ. ܐܫܬܠܡ ܕܝܢ ܟܬܒܐ ܗܢܐ ܒܝܪܚ ܐܝܪ ܒܥܣܪ̈ܝܢ ܘܬܡ̈ܢܝܐ ܒܗ. ܕܫܢܬ ܬܡܢܡ̈ܐܐ ܘܐܪ̈ܒܥܝܢ ܘܬܠܬ ܗܢܕܩܛܝܘܢܐ ܕܕܩܛܐ. ܡܦܚܡ ܕܝܢ ܟܬܒܐ ܗܢܐ ܒܕܝܪܐ ܕܡ̈ܕܢܚܝܐ ܒܫܩܠ ܛܥܢܐ.</p>
+        </h1><br />Manuscript URI:  http://syriaca.org/manuscript/118/sourceManuscript URI:  http://syriaca.org/manuscript/119/sourceManuscript URI:  http://syriaca.org/manuscript/12/sourceManuscript URI:  http://syriaca.org/manuscript/120/source<h1>See below.
+                  </h1>
+        <h1>
+            <p>The date, about which there is a slight difficulty, is given as follows:</p>
+            <p><br /><br />ܐܫܬܸܪܝܬ ܕܝܢ ܚܕܬܐ ܗܕܐ ܒܪܫܗ ܕܐܝܠܘܢ(sic) ܀ ܘܐܫܬܠܡܬ ܟܕ ܢܦܝܩܝܢ ܡܢ ܫܒܛ ܥܣܪܐ ܝܘ̈ܡܝܢ܀ ܒܫܢܬ ܐܠܦܐ ܘܬܪ . . . ܒܡܢܝܢܐ ܝܕܝܥܐ ܕܝܘ̈ܢܝܐ. ܕܐܝܬܝܗ̇ ܒܕ̈ܛܝܝܐ ܬܡـ. . . ܢ ܒܡܠܟܘܬܐ ܕܒܝܬ ܡܪܘܢ܀ ܒܝܘ̈ܡܝ. . .  ܥܠܝ̈ܐ</p>
+            <p>"This New (Testament) was begun on the first of Ilūn (Ilūl), and finished when ten days of Shěbāt were passed; in the year 1012, according to the well-known era of the Greeks, which is, according to that of the Arabs, 80; under the rule of the house of  <a href="">Marwān</a>, in the days of …. [the Ishma]elites."</p>
+            <p>Neither the mīm in the word ܬܡـ . . . ܢ , nor the rīsh in ܘܬܪ, is perfectly certain; but still there can be little doubt that the book was written in the reign of <a href="">'Abdu ‘l-Malik ibn Marwān</a>, for A. H. 80=A. D. 699-700 = A. Gr. 1011-12.</p>
+        </h1><br />Manuscript URI:  http://syriaca.org/manuscript/121/sourceManuscript URI:  http://syriaca.org/manuscript/122/sourceManuscript URI:  http://syriaca.org/manuscript/126/sourceManuscript URI:  http://syriaca.org/manuscript/127/sourceManuscript URI:  http://syriaca.org/manuscript/128/sourceManuscript URI:  http://syriaca.org/manuscript/129/sourceManuscript URI:  http://syriaca.org/manuscript/13/sourceManuscript URI:  http://syriaca.org/manuscript/130/source<h1>See additions.</h1>
+        <h1>
+            <p>On fol. 200 b, at the end of the Gospel of S. John, there is a note, unfortunately mutilated, stating that the last two leaves were written by one <a href="">Gabriel of Edessa</a>: </p>
+            <p><br /><br />ܨܠܘ ܥܠ ܚܛܝܐ . . . ܓܒܪܝܠ ܒܪ ܡـ . . . ܐ ܩܝܢܝܐ ܡܢ ܐܘܪܗܝ ܡـ[ܕܝܢܬܐ ܪܚܡܬ] ܠܡܫܝܚܐ ܕܢܚܣܐ ܠܗ ܡܪܝܐ ܘ . . . ܘܝܐ ܘܠܟܬܘܒܐ ܘ܏ܫ.</p>
+        </h1><br />Manuscript URI:  http://syriaca.org/manuscript/131/source<h1>See additions.</h1>
+        <h1>
+            <p>On fol. 157 b there is a note, in the handwriting of the scribe, stating that this book was collated by <a href="">Kashīsh</a>, the Arab, priest of the district called <a href="">Nahrā dě-Kastra</a>, along with his syncelli <a href="">John bar Daniel</a>, the Arab, and <a href="">John</a>, the deacon, of <a href="">ܐܘܢܡܪܐ</a>, who was also of Arab race. </p>
+            <p><br /><br />ܢܥܒܕ ܡܪܢ ܪ̈ܚܡܐ ܘܚܢܢܐ ܒܝܘܡܐ ܪܒܐ ܕܡܐܬܝܬܗ܆ ܥܠ ܟܠ ܡܢ ܕܦܚܡ ܟܬܒܐ ܗܢܐ ܘܗ̣ܘܐ ܠܗ ܫܩ̣ܠ ܛܥܢܐ ܡܛܠ ܦܘܚܡܗ ܕܡܢ ܛܥܘ̈ܢܐ. ܦܚܡܘܗܝ ܕܝܢ ܒܫܩ̣ܠ ܛܥܢܐ ܣܓܝܐܐ̣. ܡܪܝ ܩܫܝܫ ܛܝܝܐ ܩܫܝܫܐ ܕܢܗܪܐ ܕܩܣܛܪܐ̣. ܥܡ ܒ̈ܢܝ ܩܠܝܬܗ ܕܝܨܦܘ ܥܡܗ. ܡܪܝ ܝܘܚܢܢ ܛܝܝܐ ܒܪ ܕܢܝܐܝܠ̣. ܘܡܪܝ ܝܘܚܢܢ ܫܡܫܐ ܕܡܢ ܐܘܢܡܪܐ̇. ܥܪܒܝܐ ܕܝܢ ܐܝܘܘܗܝ ܒܓܢܣܗ. ܕܐܠܗܐ ܗ̇ܘ ܕܡܛܠ ܫܡܗ ܝܨܦܘ ܡܛܠ ܦܘܚܡܗ ܕܟܬܒܐ ܗܢܐ̣. ܗ̣ܘ ܢܬܠ ܠܗܘܢ ܦܘܪܥܢܐ ܛܒ̇ܐ̣ ܘ܏ܫ</p>
+        </h1><br />
+        <h1>
+            <p>The name of the scribe appears to have been <a href="">David</a>, for under the above note we read:</p>
+            <p><br /><br />ܒܡܪܢ ܣܒܪܢ ܟܠ ܡܢ ܕܩ̇ܪܐ ܢܨܠܐ [ܥܠ add] ܕܘܝܕ ܚܛܝܐ. . ܕܥܠ ܛܘܢܢܐ  ܕܟܬܒܐ ܗܢܐ. ܘ. </p>
+        </h1><br />Manuscript URI:  http://syriaca.org/manuscript/132/sourceManuscript URI:  http://syriaca.org/manuscript/135/source<h1>See additions.</h1>
+        <h1>
+            <p>At the end of the subscription to the last Gospel, fol. 104 a, we have the doxology: </p>
+            <p><br /><br />ܫܘܒܚܐ ܡܢ ܟܠ ܥܠ ܟܠ ܠܡܪܝܐ ܟܠ ܡܫܡܠܐ ܟܠ ܒܫܘܡܠܝܗ ܐܡܝܢ.</p>
+        </h1><br />Manuscript URI:  http://syriaca.org/manuscript/136/sourceManuscript URI:  http://syriaca.org/manuscript/139/source<h1>See below.</h1>
+        <h1>
+            <p>At the foot of fol. 68a, after the doxology, stand the words</p>
+            <p><br /><br />ܢܘܢܐ ܟܬ݁[ܒܬ],</p>
+            <p><br /><br />“I <a href="">Nonnus</a>, have written,"</p>
+            <p>separated by an ornament.</p>
+        </h1><br />Manuscript URI:  http://syriaca.org/manuscript/140/sourceManuscript URI:  http://syriaca.org/manuscript/141/sourceManuscript URI:  http://syriaca.org/manuscript/142/sourceManuscript URI:  http://syriaca.org/manuscript/148/sourceManuscript URI:  http://syriaca.org/manuscript/149/sourceManuscript URI:  http://syriaca.org/manuscript/152/source<h1>See below.</h1>
+        <h1>
+            <p>At the end of the Gospel of S. John, after the subscription, stands the following doxology:</p>
+            <p><br /><br />ܫܘܒܐ  ܠܐܒܐ: ܕܥܕܪ ; ܘܠܒܪܐ: ܕܣܝ̇ܥ ܘܠܪܘܚܐ. ܩܕܝܫܐ. ܕܫ̇ܡܠ̣ܝ</p>
+            <p>which is followed by the words:</p>
+            <p><br /><br />ܐܝܬܘܗܝ ܕܝܢ. ܟܬܒܐ. ܗܢܐ. ܕܐܪ̈ܒܥܐ ܐܘܢ̈ܓܠܣܛܐ ܩ̈ܕܝܫܐ. ܕܐܬܦܫܩܘ. ܡܢ. ܠܫܢܐ ܝܘܢܝܐ. ܠܣܘܪܝܝܐ. ܒܚܬܝܬܘܬܐ. ܣܓܝܐܬܐ. ܘܒܫܩܠ ܛܥܢܐ. ܪܒܐ.</p>
+        </h1><br />Manuscript URI:  http://syriaca.org/manuscript/153/source<h1>See below.
+                     </h1>
+        <h1>
+            <p>The Gospel of S. John, according to the Harklensian version is prefaced by the remark</p>
+            <p><br /><br />ܬܘܒ ܪܝܫܐ ܐܚܪܢܐ ܡܢ ܐܘܢܓܠܝܘܢ ܕܝܘܚܢܢ ܒܪ ܙ[ܒܕܝ.] ܗܕܐ ܣܘܢܛܟܣܝܣ ܠܘ ܒܟܠܗܘܢ ܨܚ̈ܚܐ ܡܫܬܟܚܐ. ܐܫܟܚܗ̇ ܕܝܢ ܐܒܣ ܡܪܝ ܦܘܠܐ̣ ܒܚܕ ܨܚ̈ܚܐ ܐܠܟܣܢܕܪ̈ܝܐ ܘܦܫܩܗ̇ [ܡܢ] ܝܘܢܝܐ ܠܣܘܪܝܝܐ. ܐܝܟ ܕܟܬܝܒܐ ܗܪܟܐ. ܡܢ ܐܘܢܓܠܝܘܢ ܕܝܘܚܢܢ. ܩܢܘܢ ܕܥܣܪ̈ܐ. ܡܢܝܢܐ ܕܦܣ̈ܘܩܐ܇ ܏ܨܘ: ܐܝܟ ܦܘܫܩܐ ܕܬܐܘܡܐ ܚܪܩܠܝܐ. ܐܡ̇ܪ ܢܝܩܕܡܘܣ ܠܘܬܗܘܢ. ܏ܘܫ.</p>
+        </h1><br />Manuscript URI:  http://syriaca.org/manuscript/154/sourceManuscript URI:  http://syriaca.org/manuscript/155/sourceManuscript URI:  http://syriaca.org/manuscript/156/source<h1>See additions.</h1>
+        <h1>See additions.</h1>
+        <h1>
+            <p>The Acts is followed by the short doxology:</p>
+            <p><br /><br />ܫܘܒܚܐ. ܠܡܪܢ. ܐܡܝܢ</p>
+        </h1><br />
+        <h1>
+            <p>A note at the end states that these leaves were written by a person named <a href="">Lazarus</a>:</p>
+            <p><br /><br />ܟܬ̣ܒ ܠܗܠܝܢ ܐܪܒܥ ܐܓܪ̈ܬܐ ܐܚܪ̈ܢܝܬܐ ܠܥܙܪ ܬܚܘܒܐ ܒܐܦ݁ . . . ܨܠܘܬܢ ܥܠܘܗܝ ܘܡܪܝܐ ܢܚܣܐ ܠܗ. ܒܝܕ ܨܠܘܬܐ . . . ܥܕܬܐ ܩܕܝܫܬܐ. ܘܠܟܠ ܕܐܡ̇ܪ ܐܡܝܢ܀ ܓܪ̈ܡܝ ܢܩܥܘܢ ܡܢ ܩܒܪܐ ܕܐܠܗܐ ܢܥ̣ـ . . . ܘܐܢ ܐܝܬ ܡܘܡܐ ܒܗܝܡܢܘܬܐܝ ܥܡ . .</p>
+        </h1><br />Manuscript URI:  http://syriaca.org/manuscript/159/sourceManuscript URI:  http://syriaca.org/manuscript/160/sourceManuscript URI:  http://syriaca.org/manuscript/161/sourceManuscript URI:  http://syriaca.org/manuscript/162/sourceManuscript URI:  http://syriaca.org/manuscript/163/sourceManuscript URI:  http://syriaca.org/manuscript/164/source<h1>See additions.</h1>
+        <h1>
+            <p>Doxology: </p>
+            <p><br /><br />ܫܘܒܚܐ ܠܬܠܝܬܝܘܬܢ ܡܫܒܚܬܐ ܐܡܝܢ ܘܐܡܝܢ ܘܐܡܝܢ</p>
+        </h1><br />Manuscript URI:  http://syriaca.org/manuscript/165/sourceManuscript URI:  http://syriaca.org/manuscript/166/sourceManuscript URI:  http://syriaca.org/manuscript/169/source<h1>See below.</h1>
+        <h1>See below.</h1>
+        <h1>See below.</h1>
+        <h1>See below.</h1>Manuscript URI:  http://syriaca.org/manuscript/233/source<h1>See below.</h1>
+        <h1>See below.</h1>
+        <h1>See below.</h1>
+        <h1>See below.</h1>
+        <h1>See below.</h1>
+        <h1>See below.</h1>
+        <h1>See below.</h1>Manuscript URI:  http://syriaca.org/manuscript/336/source<h1>See below.</h1>
+        <h1>See below.</h1>Manuscript URI:  http://syriaca.org/manuscript/359/sourceManuscript URI:  http://syriaca.org/manuscript/383/sourceManuscript URI:  http://syriaca.org/manuscript/4/source<h1>See below.
+                  </h1>
+        <h1><br /><br />ܫ̣ܠܡ ܟܬܒܐ ܕܡܦܩܢܐ̣ ܐܝܟ ܡܫܠܡܢܘܬܐ ܕܫܒܥܝܢ. . .
                       ܨܚ̇ܚܐ ܕܝܢ ܗܿܘ ܕܡܢܗ ܐܬ̇ܦܫܩ ܠܠܫܢܐ ܣܘܪܝܝܐ̣. ܪܘܫܡܐ̇ ܐܝܬ ܒܗ̣ ܗܢܐ. ܐܬܢܣ̣ܒ ܡܢ ܫ̈ܬܝܬܝ ܦܨ̈ܐ ܕܐܝܟ ܡ̈ܫܠܡܢܘܬܐ̣. ܘܐܬ̇ܦܚܡ ܡܢ ܗܿܘ ܕܐܦ ܡ̈ܫܠܡܢܘܬܐ ܐܬܬ̣ܣܝܡ.. .
                       ܐܬܦ̇ܚܡ ܕܝܢ ܬܘܒ ܗܼܘ ܡܦܩܢܐ̣. ܠܘܬ ܨܚܚܐ̇ ܚܬܝܬܐ̣ ܕܗܢܐ ܪܘܫܡܐ ܐܝܬ ܠܗ.♱. 
-                      ܐܬܟ̣ܬܒܬ ܡܫܠܡܢܘܬܐ  ܕܫܒܥܝܢ ܡܢ ܐܟܣܐܦܠܐ̣ ܐܝܟܐ ܕܗ̇ܝ ܥܒܪܝܬܐ ܡ̇ܦܚܡܐ ܗܘܬ܇ ܐܝܟ ܗ̇ܝ ܥܒܪܝܬܐ ܕܫܡܪ̈ܝܐ. ܘܡ̣ܬܪܨ ܗܘܐ̣ ܒܐܝܼܕܐ ܕܐܘܣܒܝܣ ܗ̇ܘ ܕܦܡܦܘܠܘܣ. ( <foreign xml:lang="en">marg</foreign>. <!-- ADD MISSING COPTIC -->) ܐܝܟܢܐ ܕܗ̣ܘ ܪܘܫܡܐ ܡܫܘܕܥ ܗܘܐ. ܡܢ ܗ̇ܘ̣ ܕܐܦ ܗܠܝܢ ܕܡܢ ܗ̇ܝ ܕܫܡܪ̈ܝܐ ܩܿܕܡ ܐܬܬܣܝܡ܆ ܒܠܚܘܕܼ ܠܘܬ ܡܬܚܘܝܢܘܬܐ ܕܐܬܥ̣ܡܠ ܗ̣ܘ ܨܚܚܐ. 
-                    </quote>
-    <quote>"The book of Exodus, according to the translation of the LXX., is ended.</quote> <!-- Is this a final rubric? -->
-    <quote>"In the exemplar from which it was translated into the Syriac tongue, was this epigraph: 'Taken from a (copy of the) Hexapla, which (was arranged) according to the (different) versions, and collated with one which was furnished with the (various readings of the) versions. (The correctness of this translation is not quite certain. See <bibl>Bianchini, Vindiciae Canonic. Scriptur., pp. cclxxiv., cclxxvi.</bibl>; <bibl>Daniel secundum LXX., Rome, 1772, pp. 74, 75</bibl>; and compare <bibl>Middledorpf, Codex Syriaco-hexaplaris, pars i. p. 65</bibl> (<foreign xml:lang="syr">ܡܢ ܗܿܘ ܕܐܦ ܡܫ̈ܠܡܢܘܬܐ ܐܬܬܣܝܡܢ</foreign>),and <bibl>Zeitschrift der Deutschen Morgenlandischen Gesellschaft, Band iii. p. 427</bibl>.)</quote>
-    <quote>"This (copy of) Exodus was also collated with an accurate exemplar, in which was this epigraph: ‘The translation of the LXX. was transcribed from (a manuscript of) the Hexapla, in which the Hebrew was collated according to the Hebrew (text) of the Samaritans.' And (this manuscript) was corrected by the hand of <persName ref="">Eusebius Pamphili</persName>, as the epigraph shows; from which (manuscript) too the things taken from the Samaritan text have been previously inserted, merely as an evidence that great pains was taken with the copy."</quote>
-</item>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="5" xml:id="addition5">
-    <ref target="#a1 #handNote1"/>
-    <locus from="132b" to="132b"/>
-    <p>After this comes the doxology:</p>
-    <p>
-        <quote xml:lang="syr">ܫܘܒܚܐ̇ ܠܐܒܐ̣ ܘܠܒܪܐ ܘܠܪܘܚܐ ܕܩܘܕܫܐ. ܗܫܐ̇ ;ܘܒܟܠܙܒܢ ܘܠܥܠܡ ܥܠܡܝܢ ܐܡܝܢ. . ܐܝܢ ܘܐܡܝ̣ܢ</quote>
-    </p>
-</item>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="6" xml:id="addition6">
-    <ref target="#a1 #handNote1"/>
-    <locus from="132b" to="132b"/>
-    <p>Below <ref target="#addition5">the doxology</ref> we read the name of the copyist, <persName ref="">Lazarus</persName>, and the date of the manuscript, written in two lines, in a small, current hand</p>—
-                    <p>
-        <quote xml:lang="syr">ܐܫܬܠܡ ܟܬܒܐ ܗܢܐ ܒܐܝܪܚ ܫܒܛ ܕܫܢܬ ܐܠܦ ܘܬܡܢܐ ܡܛܠ ܡܪܢ ܟܠܟܘܢ ܡܗܝ̈ܡܢܐ ܕܥܬܝܕܝܢ ܕܢܦܓܥܘܢ ܒܟܬܒܐ ܗܢܐ ܨܠܘ ܥܠܝ ܕܝܠ ܡܚܝܠܐ ܘܚܛܝܐ ܠܥܙܪ ܡܣܟܢܐ ܕܟ݁ܬܒܬ</quote>.</p>
-</item>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/432/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/483/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target=""/>See below.</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target=""/>See below.</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target=""/>See below.</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target=""/>See below.</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target=""/>See below.</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target=""/>See below.</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target=""/>See below.</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target=""/>See below.</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target=""/>See below.</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target=""/>See below.</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target=""/>See below.</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target=""/>See below.</colophon>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/523/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/536/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/537/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/549/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="">See below.<!-- The colophon is distinguished from the final rubric in that it is not necessarily about the end of the text. It may be a note about the original scribe or patron. The text of the colophon is NOT included here but below as an addition, the ref target provides the link --></ref>
-</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="">See below.<!-- The colophon is distinguished from the final rubric in that it is not necessarily about the end of the text. It may be a note about the original scribe or patron. The text of the colophon is NOT included here but below as an addition, the ref target provides the link --></ref>
-</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="">See below.<!-- The colophon is distinguished from the final rubric in that it is not necessarily about the end of the text. It may be a note about the original scribe or patron. The text of the colophon is NOT included here but below as an addition, the ref target provides the link --></ref>
-</colophon>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/61/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#p7addition1 #p7addition2 #p7addition3">See below.</ref>
-</colophon>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="1" xml:id="p7addition1">
-    <locus from="195a" to="195a"/>
-    <p>A note on fol. 195a states that this <ref target="#part7a1">book of Genesis</ref> belonged to one 
-                      <persName ref="">Denha,  the disciple of <persName ref="">Lazarus of <listPlace>
-                    <place ref="">
-                        <placeName>Arzan or </placeName>
-                        <placeName>Arzun</placeName>
-                    </place>
-                </listPlace>
-            </persName>
-        </persName>, who dwelt in the <placeName ref="">desert of <placeName ref="">Scete</placeName>
-        </placeName>
-    </p>
-    <p>
-        <quote xml:lang="syr">ܐܝܨܦ ܘܩܢܐ ܟܬܒܐ ܗܢܐ ܕܐܝܬܘܗܝ ܣܦܪܐ ܩܕܡܝܐ ܕܒܪܝܬܐ. ܕܢܚܐ ܐܟܣܢܝܐ ܘܚܛܝܐ ܕܡܫܬܡܗ ܬܠܡܝܕܗ ܕܠܥܙܪ ܐܪܙܢܝܐ ܗܘ ܕܒܡܕܒܪܐ ܕܐܣܩ̈ܛܐ ܥܡܪ ܗܘܐ ܐܝܟ ܕܠܦܘܪܩܢܐ ܕܚܝܘܗܝ ܘܕܟܠ ܕܩܪܐ ܒܗ ܏ܘܫ.</quote>
-    </p>
-</item>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="2" xml:id="p7addition2">
-    <locus from="195a" to="195a"/>
-    <p>A different hand has added:</p>
-    <p>
-        <quote xml:lang="syr">ܘܟܠ ܕܡܦܩ ܠܗ ܡܢ ܕܝܪܐ ܗܕܐ. ܘܡܫܢܐ ܠܗ. ܐܘ ܟܐܡ ܥܠ܏ܘ ܐܘ ܠܚܐ ܥܘܗܕܢܐ ܗܢܐ ܡܚܪܡܐ ܢܗܘ ܘ܏ܫ.</quote>
-    </p>
-</item>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="3" xml:id="p7addition3">
-    <locus from="195b" to="195b"/>
-    <p>On fol. 195 b there is twice written the name of one 
-                      <listPerson>
-            <person ref="">
-                <persName xml:lang="eng" type="supplied">Jonah</persName>,
-                          <persName xml:lang="syr" type="supplied">ܐܢܐ ܝܘܢܢ ܐܟܣܢܝܐ ܘܚܛܝܐ</persName>
-            </person>
-        </listPerson>
-    </p>
-</item>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/729/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/730/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="addition1">See below.
-                    </ref>
-</colophon>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="1" xml:id="addition1">
-    <locus from="70b" to="70b"/>
-    <p>Colophon :</p>
-    <p>
-        <quote xml:lang="syr">ܨܚܚܐ ܕܝܢ ܕܐܬ̣ܟܬܒ ܗܿܘ ܕܐܬ̇ܦܫܩ ܗܢ ܡܢܗ̣. ܪܫ̣ܝܡ ܗܘܐ ܥܠܘܗܝ ܗܟܢܐ. ܐܬܟܬܒ ܡܢ ܐܪ̈ܒܝܥܝ ܦܨ̈ܐ̣ ܐܝܟ ܡܫܠܡܢܘܬܐ ܕܫܒܥܝܢ.</quote>
-    </p>
-    <p>
-        <quote>"On the manuscript exemplar, from which this (copy) was translated, there was written thus: copied from the Tetrapla, according to the version of the LXX."</quote>
-    </p>
-</item>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/731/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/732/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/733/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/736/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition3 #addition4">See below.
-                  </ref>
-</colophon>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="3" xml:id="addition3">
-    <locus from="68b" to="68b"/>
-    <ref target="#handNote3"/>
-    <p>On <locus>fol. 68 b</locus>, we find the following note, in a current hand, stating that this volume was written at <origPlace ref="">Edessa</origPlace>, <date calendar="Seleucid">A. Gr. 852</date>, and purchased by <persName ref="">Sergius</persName> and <persName ref="">Abraham</persName>, the sons of <persName ref="">Malkā</persName>, from the town of <placeName ref="">Hadathā</placeName> for the use of the convent to which they belonged.</p>
-    <quote xml:lang="syr">ܢܗܘܐ ܕܘܟܪܢܐ ܛܒܐ ܩܕܡ ܐܠܗܐ ܠܣܪܓܝܣ ܘܐܒܪܗܡ ܒܢ̈ܝ ܡܠܟܐ ܡܢ ܚܕܬܐ ܕܪ̈ܗܘܡܝܐ ܕܐܠܗܐ ܗܘ ܕܡܛܠ ܫܡܗ ܐܬܚܦܛܘ ܘܙܒܢܘ ܟܬܒܐ ܗܢܐ ܠܥܘܡܪܐ ܕܝܠܗܘܢ ܕܢܩܪܘܢ ܒܗܘܢ (<foreign>sic</foreign>) ܘܢܬܗܓܘܢ ܒܗܘܢ (<foreign>sic</foreign>) ܗܢܘܢ ܘܝܪ̈ܬܝܗܘܢ ܢܩܪܐ ܘܢܩܝܡ ܐܢܘܢ ܡܢ ܝܡܝܢܗ ܠܗܘܢ ܘܠܥܢܝܕܝܗܘܢ ܒܡܠܟܘܬܐ ܕܫܡܝܐ ܠܥܠܡ ܥܠܡܝܢ ܐܡܝܢ
+                      ܐܬܟ̣ܬܒܬ ܡܫܠܡܢܘܬܐ  ܕܫܒܥܝܢ ܡܢ ܐܟܣܐܦܠܐ̣ ܐܝܟܐ ܕܗ̇ܝ ܥܒܪܝܬܐ ܡ̇ܦܚܡܐ ܗܘܬ܇ ܐܝܟ ܗ̇ܝ ܥܒܪܝܬܐ ܕܫܡܪ̈ܝܐ. ܘܡ̣ܬܪܨ ܗܘܐ̣ ܒܐܝܼܕܐ ܕܐܘܣܒܝܣ ܗ̇ܘ ܕܦܡܦܘܠܘܣ. ( marg. ) ܐܝܟܢܐ ܕܗ̣ܘ ܪܘܫܡܐ ܡܫܘܕܥ ܗܘܐ. ܡܢ ܗ̇ܘ̣ ܕܐܦ ܗܠܝܢ ܕܡܢ ܗ̇ܝ ܕܫܡܪ̈ܝܐ ܩܿܕܡ ܐܬܬܣܝܡ܆ ܒܠܚܘܕܼ ܠܘܬ ܡܬܚܘܝܢܘܬܐ ܕܐܬܥ̣ܡܠ ܗ̣ܘ ܨܚܚܐ. 
+                    <br /><br />"The book of Exodus, according to the translation of the LXX., is ended. <br /><br />"In the exemplar from which it was translated into the Syriac tongue, was this epigraph: 'Taken from a (copy of the) Hexapla, which (was arranged) according to the (different) versions, and collated with one which was furnished with the (various readings of the) versions. (The correctness of this translation is not quite certain. See Bianchini, Vindiciae Canonic. Scriptur., pp. cclxxiv., cclxxvi.; Daniel secundum LXX., Rome, 1772, pp. 74, 75; and compare Middledorpf, Codex Syriaco-hexaplaris, pars i. p. 65 (ܡܢ ܗܿܘ ܕܐܦ ܡܫ̈ܠܡܢܘܬܐ ܐܬܬܣܝܡܢ),and Zeitschrift der Deutschen Morgenlandischen Gesellschaft, Band iii. p. 427.)<br /><br />"This (copy of) Exodus was also collated with an accurate exemplar, in which was this epigraph: ‘The translation of the LXX. was transcribed from (a manuscript of) the Hexapla, in which the Hebrew was collated according to the Hebrew (text) of the Samaritans.' And (this manuscript) was corrected by the hand of <a href="">Eusebius Pamphili</a>, as the epigraph shows; from which (manuscript) too the things taken from the Samaritan text have been previously inserted, merely as an evidence that great pains was taken with the copy."</h1><br />
+        <h1>
+            <p>After this comes the doxology:</p>
+            <p><br /><br />ܫܘܒܚܐ̇ ܠܐܒܐ̣ ܘܠܒܪܐ ܘܠܪܘܚܐ ܕܩܘܕܫܐ. ܗܫܐ̇ ;ܘܒܟܠܙܒܢ ܘܠܥܠܡ ܥܠܡܝܢ ܐܡܝܢ. . ܐܝܢ ܘܐܡܝ̣ܢ</p>
+        </h1><br />
+        <h1>
+            <p>Below the doxology we read the name of the copyist, <a href="">Lazarus</a>, and the date of the manuscript, written in two lines, in a small, current hand</p>—
+                    <p><br /><br />ܐܫܬܠܡ ܟܬܒܐ ܗܢܐ ܒܐܝܪܚ ܫܒܛ ܕܫܢܬ ܐܠܦ ܘܬܡܢܐ ܡܛܠ ܡܪܢ ܟܠܟܘܢ ܡܗܝ̈ܡܢܐ ܕܥܬܝܕܝܢ ܕܢܦܓܥܘܢ ܒܟܬܒܐ ܗܢܐ ܨܠܘ ܥܠܝ ܕܝܠ ܡܚܝܠܐ ܘܚܛܝܐ ܠܥܙܪ ܡܣܟܢܐ ܕܟ݁ܬܒܬ.</p>
+        </h1><br />Manuscript URI:  http://syriaca.org/manuscript/432/sourceManuscript URI:  http://syriaca.org/manuscript/483/source<h1>See below.</h1>
+        <h1>See below.</h1>
+        <h1>See below.</h1>
+        <h1>See below.</h1>
+        <h1>See below.</h1>
+        <h1>See below.</h1>
+        <h1>See below.</h1>
+        <h1>See below.</h1>
+        <h1>See below.</h1>
+        <h1>See below.</h1>
+        <h1>See below.</h1>
+        <h1>See below.</h1>Manuscript URI:  http://syriaca.org/manuscript/523/sourceManuscript URI:  http://syriaca.org/manuscript/536/sourceManuscript URI:  http://syriaca.org/manuscript/537/sourceManuscript URI:  http://syriaca.org/manuscript/549/source<h1>See below.</h1>
+        <h1>See below.</h1>
+        <h1>See below.</h1>Manuscript URI:  http://syriaca.org/manuscript/61/source<h1>See below.</h1>
+        <h1>
+            <p>A note on fol. 195a states that this book of Genesis belonged to one 
+                      <a href="">Denha,  the disciple of <a href="">Lazarus of <a href="">Arzan or </a><a href="">Arzun</a></a></a>, who dwelt in the <a href="">desert of <a href="">Scete</a></a>
+            </p>
+            <p><br /><br />ܐܝܨܦ ܘܩܢܐ ܟܬܒܐ ܗܢܐ ܕܐܝܬܘܗܝ ܣܦܪܐ ܩܕܡܝܐ ܕܒܪܝܬܐ. ܕܢܚܐ ܐܟܣܢܝܐ ܘܚܛܝܐ ܕܡܫܬܡܗ ܬܠܡܝܕܗ ܕܠܥܙܪ ܐܪܙܢܝܐ ܗܘ ܕܒܡܕܒܪܐ ܕܐܣܩ̈ܛܐ ܥܡܪ ܗܘܐ ܐܝܟ ܕܠܦܘܪܩܢܐ ܕܚܝܘܗܝ ܘܕܟܠ ܕܩܪܐ ܒܗ ܏ܘܫ.</p>
+        </h1><br />
+        <h1>
+            <p>A different hand has added:</p>
+            <p><br /><br />ܘܟܠ ܕܡܦܩ ܠܗ ܡܢ ܕܝܪܐ ܗܕܐ. ܘܡܫܢܐ ܠܗ. ܐܘ ܟܐܡ ܥܠ܏ܘ ܐܘ ܠܚܐ ܥܘܗܕܢܐ ܗܢܐ ܡܚܪܡܐ ܢܗܘ ܘ܏ܫ.</p>
+        </h1><br />
+        <h1>
+            <p>On fol. 195 b there is twice written the name of one 
+                      <a href="">Jonah</a>,
+                          <a href="">ܐܢܐ ܝܘܢܢ ܐܟܣܢܝܐ ܘܚܛܝܐ</a>
+            </p>
+        </h1><br />Manuscript URI:  http://syriaca.org/manuscript/729/sourceManuscript URI:  http://syriaca.org/manuscript/730/source<h1>See below.
+                    </h1>
+        <h1>
+            <p>Colophon :</p>
+            <p><br /><br />ܨܚܚܐ ܕܝܢ ܕܐܬ̣ܟܬܒ ܗܿܘ ܕܐܬ̇ܦܫܩ ܗܢ ܡܢܗ̣. ܪܫ̣ܝܡ ܗܘܐ ܥܠܘܗܝ ܗܟܢܐ. ܐܬܟܬܒ ܡܢ ܐܪ̈ܒܝܥܝ ܦܨ̈ܐ̣ ܐܝܟ ܡܫܠܡܢܘܬܐ ܕܫܒܥܝܢ.</p>
+            <p><br /><br />"On the manuscript exemplar, from which this (copy) was translated, there was written thus: copied from the Tetrapla, according to the version of the LXX."</p>
+        </h1><br />Manuscript URI:  http://syriaca.org/manuscript/731/sourceManuscript URI:  http://syriaca.org/manuscript/732/sourceManuscript URI:  http://syriaca.org/manuscript/733/sourceManuscript URI:  http://syriaca.org/manuscript/736/source<h1>See below.
+                  </h1>
+        <h1>
+            <p>On fol. 68 b, we find the following note, in a current hand, stating that this volume was written at Edessa, A. Gr. 852, and purchased by <a href="">Sergius</a> and <a href="">Abraham</a>, the sons of <a href="">Malkā</a>, from the town of <a href="">Hadathā</a> for the use of the convent to which they belonged.</p><br /><br />ܢܗܘܐ ܕܘܟܪܢܐ ܛܒܐ ܩܕܡ ܐܠܗܐ ܠܣܪܓܝܣ ܘܐܒܪܗܡ ܒܢ̈ܝ ܡܠܟܐ ܡܢ ܚܕܬܐ ܕܪ̈ܗܘܡܝܐ ܕܐܠܗܐ ܗܘ ܕܡܛܠ ܫܡܗ ܐܬܚܦܛܘ ܘܙܒܢܘ ܟܬܒܐ ܗܢܐ ܠܥܘܡܪܐ ܕܝܠܗܘܢ ܕܢܩܪܘܢ ܒܗܘܢ (sic) ܘܢܬܗܓܘܢ ܒܗܘܢ (sic) ܗܢܘܢ ܘܝܪ̈ܬܝܗܘܢ ܢܩܪܐ ܘܢܩܝܡ ܐܢܘܢ ܡܢ ܝܡܝܢܗ ܠܗܘܢ ܘܠܥܢܝܕܝܗܘܢ ܒܡܠܟܘܬܐ ܕܫܡܝܐ ܠܥܠܡ ܥܠܡܝܢ ܐܡܝܢ
                          ܐܫܬܠܡ ܟܬܒܐ ܒܐܘܪܗܝ ܡܕܝܢܬܐ ܕܒܝܬܢܗܪܝܢ ܒܫܢܬ ܬܡܢܡܐܐ ܘܚܡܫܝܢ ܘܬܪ̈ܬܝܢ
-                      </quote>
-</item>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="4" xml:id="addition4">
-    <locus from="68b" to="68b"/>
-    <ref target="#handNote4"/>
-    <p>On the same page, in a hand of not much later date, there is an inventory of the altar cloths, napkins, etc., left in the said convent, after one <persName ref="">John</persName> had taken what he required. This inventory was made out by the priest <persName ref="">Luke</persName>.</p>
-    <quote xml:lang="syr">♱ܓܢܘܣܝܣ ܕܦܪ̈ܣܐ ܕܕܝܪܐ ܕܦܫ ܡܢ ܒܬܪ ܕܫܩܠ ܡܪܝ ܝܘܚܢܢ ܡܢܗܘܢ ܬܫܡܫ̈ܬܗ. ܦܪ̈ܣܐ ܕܡܕܒܚܐ ܕܨܠܒܐ (<foreign>sic</foreign>) ܚܕ̈ܬܐ ܚܡܫܐ ܘܕܪܓܘܢܐ (<foreign>sic</foreign>) ܬܪ̈ܝܢ ܘܦܪ̈ܣܐ ܐܪܒܥܐ ܕܟܬܢܐ ܘܫܘܫܦܐ ܚܕܐ ܘܟܬܢܝܬܐ ܘܡܢܕ̈ܠܐ ܬܠܬܥܣܪܐ ܘܬܠܬ ܩܘܪ̈ܛܝܢܣ ܕܟܬܢܐ♱ ܐܢܐ ܩܫܝܫܐ ܠܘܩܐ ܟܬܒܬܝ</quote>
-</item>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/737/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/742/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/743/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/744/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/745/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/746/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/747/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/748/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition3">See additions.</ref>
-</colophon>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="3" xml:id="addition3">
-    <p>Instead of the ordinary doxology, we find on fol. <locus>83a</locus> the following:</p>
-    <p>
-        <quote xml:lang="syr">ܬܫܒܘܚܬܐ ܠܐܠܗܐ ܒܫܡܝܐ. ܘܫܠܡܐ ܥܠ ܐܪܥܐ. ܘܣܒܪܐ ܛܒܐ ܠܒ̈ܢܝ ܐ̈ܢܫܐ ܐܡܝܢ܀</quote>
-    </p>
-</item>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/749/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/750/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition1">See additions.</ref>
-</colophon>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="1" xml:id="addition1">
-    <locus from="106a" to="106a"/>
-    <p>Colophon:</p>
-    <p>
-        <quote xml:lang="syr">ܫܠܡ. ܠܡܟܬܒ. ܒܟܬܒܐ. ܗܢܐ. ܦܪܟܣܣ. ܕܬܪ̈ܥܣܪ. ܫܠܝܚܐ. ܛܘܒܢܐ. ܘܐܓܪܬܐ. ܬܠܬ. ܩܬܘܠܝܩܘܣ܀</quote>
-    </p>
-</item>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/751/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition3">See additions.</ref>
-</colophon>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="3" xml:id="addition3">
-    <locus from="129" to="129"/>
-    <p>
-        <quote xml:lang="syr">
-            <sic>ܕܠܗ ܫܘܒܚܐ ܠܥܠܡ ܥܠܡܝܢ ܐܡܝܢ. ܐܠܗܐ ܢܚܣܐ ܠܟܠ ܕܫܬܘܬܦ ܐܡܝܢ</sic>.</quote>
-    </p>
-</item>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/752/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/753/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition4">See below.
-                      </ref>
-</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition1">See below.
-                    </ref>
-</colophon>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="4" xml:id="addition4">
-    <locus from="68a" to="68a"/>
-    <ref target="#handNote2"/>
-    <p>On fol. 68 a there is a note, written by <persName ref="">Gregory, metropolitan of Jerusalem</persName>, <date when-custom="1827" datingMethod="Seleucid">A. Gr. 1827</date> (<date when="1516" calendar="Gregorian">A.D. 1516</date>), forbidding any one to take away this <ref target="#a2">New Testament</ref> from the <placeName ref="">convent of S. Mary of Deipara</placeName>. He wrote it, as well as similar notes in other volumes, at the request of <persName ref="">Severus</persName>, the abbat of the convent, who is stated to have been a liberal donor to its library.</p>
-    <p>
-        <quote xml:lang="syr">ܝـــــــــــܗ</quote>
-    </p>
-    <p>
-        <quote xml:lang="syr">ܒܫܡ ܐܝܼܬܝܐ ܡܬܘܼܡܝܐ ܐܵܠܨ̇ܝ ܐܝܼܬܘܼܐ. ܓ݂ܪܝܓ݂ܘܿܪܝܘܿܣ ܬܚܘܼܒܐ ܡܝܛ܏ܪܘ ܕܐܘܿܪܹܫܠ̣ܡ. ܒܲܦܣܵܩܐ ܐܠܗ̇ܝܐ ܡܬܲܚܡܝܼܢܢ. ܒܡܠ̣ܬܐ ܕܚܝܼܠܬܐ ܕܐܠܗܐ. ܕܠܐ ܐܢܫ ܢܲܦܸܩ ܠܚ̇ܕܬܐ ܗܕܐ ܕܥܠ ܐܝܼܕ̈ܝܐ. ܡ̣ܢ ܕܝܪܐ ܗܕܐ ܕܝܿܠܕܬ݀ ܐܠܗܐ ܡܪܝܡ. ܕܒܡܲܕܒܪܐ ܕܐܣܩܝܛܝ. ܕܡܬܝܲܕܥܐ ܕܝܪܐ ܕܣܘܪ̈ܝܝܐ. ܕܐܝܬܝܗ̇ ܒܡܲܥܪܒ ܕܝܪܐ ܕܐܒܐ ܒܝܫܘܝ ܒܫܒ̇ܒܘܼܬܗ ܩܲܪܝ̣ܒܬܐ. ܒܐܝܿܕܐ ܕܗ̣ܝ ܥܠ̣ܬܐ. ܠܒܪ ܡܢ ܦܘܩܕܢܐ ܘܡܲܦܣܢܘܬܐ ܕܪܝܫܢܐ ܕܕܝܪܐ ܕܒܙܲܒܢܐ ܗ̇ܘ. ܥܡ ܕܟܠܗ̇ ܐܚܘܬܐ. ܘܕܣ̇ܥܐ ܐ̇ܘ ܡܲܡܪܚ ܥܠ ܗܠܝܢ. ܡܲܢ ܕܢܗ̣ܘܐ ܐܝܼܬ܏ܘ ܗܢܐ. ܐܢ ܪܹ̈ܝܫܟܗܢܐ. ܘܐܢ ܟܗܢܐ. ܘܐܢ ܡ̣ܢ ܫܲܪܟܐ ܕܩܠܝܼܪܘܣ. ܘܐܢ ܥܠܡܝܐ. ܬܗ̣ܘܐ ܡܢ̇ܬܗ ܥܡ ܕܩ̇ܐܝܢ ܠܝܼܛܐ. ܘܓܲܪܒܗ ܕܓܚܙܝ ܢ̣ܕܒܩ ܒܗ. ܘܡܲܚܘܢܘܼܩܝܬܗ ܕܝܗܘܕܐ ܣܟܪܝܘܛܐ ܬܸܗ̣ܘܐ ܒܲܩܕܠܗ. ܘܢܗܘ̣ܐ ܡܲܚܪܡ ܘܠܝܼܛ ܘܡܲܣܠܝ ܡܢ ܬܠܝܬ܏ܝܘ ܏ܩܕ ܐܒ̣ܐ ܘܒ̣ܪܐ ܘܪܘܼܚܐ ܏ܩܕ ܚܕ ܐܠܗܐ ܫܲܪܝܪܐ. ܘܠܐ ܢܗ̣ܘܐ ܠܗ ܚܘܼܣܝܐ ܘܠܐ ܫܪܵܝܐ. ܥܕܡܐ ܕܢܲܗܦܟܝܼܗ̇ ܠܕܘܼܟܬܗ̇ ܕܐܬ݂ܡܪܬ܇ ܬܗܘ̣ܐ ܬܗܘ̣ܐ. ܐܡܝܢ. ܘܟܠܡܲܢ ܕܡܠܲܝܬܐ ܠܥܘܼܗܕܢܐ ܗܢܐ ܒܚܕ ܡ̣ܢ ܙܢ̈ܝܢ. ܠܗܝܢ ܠܠܘܛܬ̈ܐ ܘܠܚ̣ܪ̈ܡܐ ܕܡܢ ܠܥ̣ܠ ܟܬ̣ܒܢܢ ܢܩܲܒܠ ܐܥܝܼܦܐܝܬ. ܐܡܝܢ. ܘܕܢ̇ܛܪ ܢܬܢܛܪ. ܐܡܝܢ. ܟܬܒ̇ܬ ܒܐܝܼ̈ܕܝ ܠܐ ܕܟܝ̈ܬܐ ܐܢ̇ܐ ܓܪܝܓܘܪܝܘܣ ܡܚܝܼܠܐ ܠܗܠܝܢ ܐܣ̣ܪ̈ܐ ܘܬܚܘܼܡ̈ܐ. ܒܫܢܬ ܐܦ̇܏ܟܙ ܕܝܲܘܢ. ܝ܏ܗ ܠܐܕܪ ܝܪܚܐ ܐܻܝܣܻܡܹܗܪܵܐ  (*) ܬܕܐܢ̇ܝܐ. ܒܝܘܡ ܫܲܒܬܐ ܕܢܘܚܵܡܗ ܕܠܥܙܪ. ܒܗ̇ ܒܕܝܪܐ ܥܲܗܝܕܬܐ. ܒܪܹܝܫܢܘܬܗ ܕܐܒܘܢ ܛܘܼܒܬܢܐ ܡܪܝ ܣܐܘܝܪܘܣ ܡܝܛ܏ܪܘ. ܪܝܫܢܐ ܘܡܕܒܪܢܐ ܕܝܠܗ̇ ܕܕܝܪܐ. ܕܗ̣ܘ ܥ̣ܨܢܝ ܠܝ̣ ܠܕܘܝܐ ܠܲܡܣܵܡ ܠܲܦܣ̈ܩܐ ܘܠܬܚܘܼܡ̈ܐ ܗܠܝܢ. ܒܚ̇ܕܬܐ ܗܕܐ. ܘܐܦ ܒܣܘܓ݂ܐܐ ܕܟܬܒ̈ܐ ܐܚܪ̈ܢܐ ܐܝܠܝܢ ܕܗ̣ܘ ܝܼܨܦ ܘܐܟ̣ܬ݂ܒ ܐܢܝܢ ܠܕܝܪܐ ܗܕܐ. ܘܫܲܟܢ ܐܢܝܢ ܠܗ̇ ܫܘܼܟܢܐ ܚܲܬܝܬܐ ܘܠܐ ܡ̣ܬܦܲܪܫܢܐ ܡ̣ܛܠ̇  ܕܘܼܟܪܢܐ ܛܒ̇ܐ ܕܢܦܫܗ. ܐܦ ܕܫܪܟܐ ܕܡܫܘ̈ܬܦܐ. ܘܡܛܠ ܕܚ̣ܠܬܐ ܕܡ̣ܢ ܠܐ ܪ̈ܕܝܐ ܘܠܐ ܕܚ̈ܠܝ ܐܠܗܐ. ܣܡ̣ܢܢ ܒܗܘܢ ܬܚܘܼܡ̈ܐ ܗܠܝܢ ܐܝܟ ܕܡ̣ܬܚܙܐ. ܘܕܢ̇ܛܪ ܢ̣ܬܢܛܪ. ܘܕܥ̇ܒܪ ܠܐ ܢܗ̣ܘܐ ܫܪܵܝܐ ܠܥܠܡ̇ ܐܡܝܢ. ܐܝܢ.</quote>
-    </p><!-- MISSING GREEK -->
-</item>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="1" xml:id="addition1">
-    <locus from="172b" to="172b"/>
-    <ref target="#a2 #handNote1"/>
-    <p>A note at the foot of fol. 172 b gives the name of the scribe, <persName ref="">Isaac</persName>: </p>
-    <p>
-        <quote xml:lang="syr">ܝܫܘܥ ܐܠܗܐ̇ ܚܲܣܐ ܒܛܝܒܘܬܟ܇ ܠܐܝܣܚܩ ܚܛܝܐ̣. ܕܟܬܼܒ ܠܣܒܪܬܟ</quote>
-    </p>
-</item>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/76/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition4">See additions.</ref>
-</colophon>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="4" xml:id="addition4">
-    <locus from="290a" to="290a"/>
-    <p>Colophon, fol. 290 a:</p>
-    <p>
-        <quote xml:lang="syr">ܫܠܸܡ ܠܡ̣ܟܬ̇ܒ ܗܢܐ ܐ̣ܘܢܓܠ̣ܝܘܢ ܩܕܝܫܐ ܕܡܠܠܘܼܗܝ ܘܐܟܪܙܘܼܗܝ ܐܪܒܥܐ ܐܘܢ̈ܓܠܝܣܛܐ ܩܕܝܫ̈ܐ ܡܬܝ ܘܡܪܩܘܼܣ ܘܠܘܼܩܐ ܘܝܘܼܚܢܢ</quote>
-    </p>
-    <p>followed by a doxology.</p>
-</item>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/8/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition3">See below.</ref>
-</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition5">See below.
-                  </ref>
-</colophon>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="3" xml:id="addition3">
-    <locus from="1a" to="1a"/>
-    <ref target="#a1"/>
-    <quote xml:lang="syr">ܣܡ̇ܬ ܠܟ ܝܕܥܐ ܥܠ ܪܫܐ ܕܟܘ̈ܪܣܐ̣. ܕܕܠܐ ܬܘܗܝܐ ܬܫܟܚ ܩܪܝܬܐ ܕܒܥܐ ܐܢܬ݁. ܡܢ ܗܠܝܢ ܕܟ̈ܬܝܒܢ ܡܢ ܠܥܠ</quote>
-    <quote>"I have put a mark for thee at the commencement of each quire, that thou mayest find without delay the lesson which thou seekest among those written above."</quote><!-- Do we want to keep the dated language? -->
-    <p>By <foreign xml:lang="syr">ܕܦܐ</foreign> is meant a single leaf of the manuscript.</p>
-</item>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="5" xml:id="addition5">
-    <locus from="100b" to="100b"/>
-    <ref target="#a2"/>
-    <p>
-        <quote xml:lang="syr">ܫܠ̣ܡܬ ܢܒܝܘܬܗ ܕܚܙܩܝܐܝܠ ܢܒܝܐ ܡܫܒܚܐ ܕܢܒ̈ܝܐ</quote>
-    </p>
-    <p>followed by the usual doxology, and by two lines of writing in a more cursive character, which are now only partially legible, but may be supplied as follows:</p>
-    <p>
-        <quote xml:lang="syr">ܟܠ ܕܝܢ ܕܩ̇ܪܐ ܒܟܬܒܐ ܗܢܐ [ܢܨܠܐ ܥܠ ܟܬܘ]ܒܐ ܚܛܝܐ ܕܟܬ̣ܒܗ ܕܢܬܚܢܢ [ܒܝܘܡ ܕܝܢ̣ܐ. ܐܡܝܢ] ܘܐܡܝܢ . </quote>
-    </p>
-</item>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/81/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/82/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/83/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/84/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition1 #addition2">See additions.</ref>
-</colophon>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="1" xml:id="addition1">
-    <locus from="89a" to="89a"/>
-    <ref target="#a1 #handNote1"/>
-    <p>Doxology following subscription:</p>
-    <p>
-        <quote xml:lang="syr">ܫܘܒܚܐ ܠܬܠܝܬܝܘܬܟ ܣܓܝܕܬ ܡܢ ܟܠ ܠܥܠܡ ܥܠܡܝܢ
-                                        ܐܡܝܢ.</quote>
-    </p>
-</item>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="2" xml:id="addition2">
-    <locus from="89a" to="89a"/>
-    <ref target="#a1 #handNote1"/>
-    <p>Note following doxology and in smaller
+                      </h1><br />
+        <h1>
+            <p>On the same page, in a hand of not much later date, there is an inventory of the altar cloths, napkins, etc., left in the said convent, after one <a href="">John</a> had taken what he required. This inventory was made out by the priest <a href="">Luke</a>.</p><br /><br />♱ܓܢܘܣܝܣ ܕܦܪ̈ܣܐ ܕܕܝܪܐ ܕܦܫ ܡܢ ܒܬܪ ܕܫܩܠ ܡܪܝ ܝܘܚܢܢ ܡܢܗܘܢ ܬܫܡܫ̈ܬܗ. ܦܪ̈ܣܐ ܕܡܕܒܚܐ ܕܨܠܒܐ (sic) ܚܕ̈ܬܐ ܚܡܫܐ ܘܕܪܓܘܢܐ (sic) ܬܪ̈ܝܢ ܘܦܪ̈ܣܐ ܐܪܒܥܐ ܕܟܬܢܐ ܘܫܘܫܦܐ ܚܕܐ ܘܟܬܢܝܬܐ ܘܡܢܕ̈ܠܐ ܬܠܬܥܣܪܐ ܘܬܠܬ ܩܘܪ̈ܛܝܢܣ ܕܟܬܢܐ♱ ܐܢܐ ܩܫܝܫܐ ܠܘܩܐ ܟܬܒܬܝ</h1><br />Manuscript URI:  http://syriaca.org/manuscript/737/sourceManuscript URI:  http://syriaca.org/manuscript/742/sourceManuscript URI:  http://syriaca.org/manuscript/743/sourceManuscript URI:  http://syriaca.org/manuscript/744/sourceManuscript URI:  http://syriaca.org/manuscript/745/sourceManuscript URI:  http://syriaca.org/manuscript/746/sourceManuscript URI:  http://syriaca.org/manuscript/747/sourceManuscript URI:  http://syriaca.org/manuscript/748/source<h1>See additions.</h1>
+        <h1>
+            <p>Instead of the ordinary doxology, we find on fol. 83a the following:</p>
+            <p><br /><br />ܬܫܒܘܚܬܐ ܠܐܠܗܐ ܒܫܡܝܐ. ܘܫܠܡܐ ܥܠ ܐܪܥܐ. ܘܣܒܪܐ ܛܒܐ ܠܒ̈ܢܝ ܐ̈ܢܫܐ ܐܡܝܢ܀</p>
+        </h1><br />Manuscript URI:  http://syriaca.org/manuscript/749/sourceManuscript URI:  http://syriaca.org/manuscript/750/source<h1>See additions.</h1>
+        <h1>
+            <p>Colophon:</p>
+            <p><br /><br />ܫܠܡ. ܠܡܟܬܒ. ܒܟܬܒܐ. ܗܢܐ. ܦܪܟܣܣ. ܕܬܪ̈ܥܣܪ. ܫܠܝܚܐ. ܛܘܒܢܐ. ܘܐܓܪܬܐ. ܬܠܬ. ܩܬܘܠܝܩܘܣ܀</p>
+        </h1><br />Manuscript URI:  http://syriaca.org/manuscript/751/source<h1>See additions.</h1>
+        <h1>
+            <p><br /><br />ܕܠܗ ܫܘܒܚܐ ܠܥܠܡ ܥܠܡܝܢ ܐܡܝܢ. ܐܠܗܐ ܢܚܣܐ ܠܟܠ ܕܫܬܘܬܦ ܐܡܝܢ.</p>
+        </h1><br />Manuscript URI:  http://syriaca.org/manuscript/752/sourceManuscript URI:  http://syriaca.org/manuscript/753/source<h1>See below.
+                      </h1>
+        <h1>See below.
+                    </h1>
+        <h1>
+            <p>On fol. 68 a there is a note, written by <a href="">Gregory, metropolitan of Jerusalem</a>, A. Gr. 1827 (A.D. 1516), forbidding any one to take away this New Testament from the <a href="">convent of S. Mary of Deipara</a>. He wrote it, as well as similar notes in other volumes, at the request of <a href="">Severus</a>, the abbat of the convent, who is stated to have been a liberal donor to its library.</p>
+            <p><br /><br />ܝـــــــــــܗ</p>
+            <p><br /><br />ܒܫܡ ܐܝܼܬܝܐ ܡܬܘܼܡܝܐ ܐܵܠܨ̇ܝ ܐܝܼܬܘܼܐ. ܓ݂ܪܝܓ݂ܘܿܪܝܘܿܣ ܬܚܘܼܒܐ ܡܝܛ܏ܪܘ ܕܐܘܿܪܹܫܠ̣ܡ. ܒܲܦܣܵܩܐ ܐܠܗ̇ܝܐ ܡܬܲܚܡܝܼܢܢ. ܒܡܠ̣ܬܐ ܕܚܝܼܠܬܐ ܕܐܠܗܐ. ܕܠܐ ܐܢܫ ܢܲܦܸܩ ܠܚ̇ܕܬܐ ܗܕܐ ܕܥܠ ܐܝܼܕ̈ܝܐ. ܡ̣ܢ ܕܝܪܐ ܗܕܐ ܕܝܿܠܕܬ݀ ܐܠܗܐ ܡܪܝܡ. ܕܒܡܲܕܒܪܐ ܕܐܣܩܝܛܝ. ܕܡܬܝܲܕܥܐ ܕܝܪܐ ܕܣܘܪ̈ܝܝܐ. ܕܐܝܬܝܗ̇ ܒܡܲܥܪܒ ܕܝܪܐ ܕܐܒܐ ܒܝܫܘܝ ܒܫܒ̇ܒܘܼܬܗ ܩܲܪܝ̣ܒܬܐ. ܒܐܝܿܕܐ ܕܗ̣ܝ ܥܠ̣ܬܐ. ܠܒܪ ܡܢ ܦܘܩܕܢܐ ܘܡܲܦܣܢܘܬܐ ܕܪܝܫܢܐ ܕܕܝܪܐ ܕܒܙܲܒܢܐ ܗ̇ܘ. ܥܡ ܕܟܠܗ̇ ܐܚܘܬܐ. ܘܕܣ̇ܥܐ ܐ̇ܘ ܡܲܡܪܚ ܥܠ ܗܠܝܢ. ܡܲܢ ܕܢܗ̣ܘܐ ܐܝܼܬ܏ܘ ܗܢܐ. ܐܢ ܪܹ̈ܝܫܟܗܢܐ. ܘܐܢ ܟܗܢܐ. ܘܐܢ ܡ̣ܢ ܫܲܪܟܐ ܕܩܠܝܼܪܘܣ. ܘܐܢ ܥܠܡܝܐ. ܬܗ̣ܘܐ ܡܢ̇ܬܗ ܥܡ ܕܩ̇ܐܝܢ ܠܝܼܛܐ. ܘܓܲܪܒܗ ܕܓܚܙܝ ܢ̣ܕܒܩ ܒܗ. ܘܡܲܚܘܢܘܼܩܝܬܗ ܕܝܗܘܕܐ ܣܟܪܝܘܛܐ ܬܸܗ̣ܘܐ ܒܲܩܕܠܗ. ܘܢܗܘ̣ܐ ܡܲܚܪܡ ܘܠܝܼܛ ܘܡܲܣܠܝ ܡܢ ܬܠܝܬ܏ܝܘ ܏ܩܕ ܐܒ̣ܐ ܘܒ̣ܪܐ ܘܪܘܼܚܐ ܏ܩܕ ܚܕ ܐܠܗܐ ܫܲܪܝܪܐ. ܘܠܐ ܢܗ̣ܘܐ ܠܗ ܚܘܼܣܝܐ ܘܠܐ ܫܪܵܝܐ. ܥܕܡܐ ܕܢܲܗܦܟܝܼܗ̇ ܠܕܘܼܟܬܗ̇ ܕܐܬ݂ܡܪܬ܇ ܬܗܘ̣ܐ ܬܗܘ̣ܐ. ܐܡܝܢ. ܘܟܠܡܲܢ ܕܡܠܲܝܬܐ ܠܥܘܼܗܕܢܐ ܗܢܐ ܒܚܕ ܡ̣ܢ ܙܢ̈ܝܢ. ܠܗܝܢ ܠܠܘܛܬ̈ܐ ܘܠܚ̣ܪ̈ܡܐ ܕܡܢ ܠܥ̣ܠ ܟܬ̣ܒܢܢ ܢܩܲܒܠ ܐܥܝܼܦܐܝܬ. ܐܡܝܢ. ܘܕܢ̇ܛܪ ܢܬܢܛܪ. ܐܡܝܢ. ܟܬܒ̇ܬ ܒܐܝܼ̈ܕܝ ܠܐ ܕܟܝ̈ܬܐ ܐܢ̇ܐ ܓܪܝܓܘܪܝܘܣ ܡܚܝܼܠܐ ܠܗܠܝܢ ܐܣ̣ܪ̈ܐ ܘܬܚܘܼܡ̈ܐ. ܒܫܢܬ ܐܦ̇܏ܟܙ ܕܝܲܘܢ. ܝ܏ܗ ܠܐܕܪ ܝܪܚܐ ܐܻܝܣܻܡܹܗܪܵܐ  (*) ܬܕܐܢ̇ܝܐ. ܒܝܘܡ ܫܲܒܬܐ ܕܢܘܚܵܡܗ ܕܠܥܙܪ. ܒܗ̇ ܒܕܝܪܐ ܥܲܗܝܕܬܐ. ܒܪܹܝܫܢܘܬܗ ܕܐܒܘܢ ܛܘܼܒܬܢܐ ܡܪܝ ܣܐܘܝܪܘܣ ܡܝܛ܏ܪܘ. ܪܝܫܢܐ ܘܡܕܒܪܢܐ ܕܝܠܗ̇ ܕܕܝܪܐ. ܕܗ̣ܘ ܥ̣ܨܢܝ ܠܝ̣ ܠܕܘܝܐ ܠܲܡܣܵܡ ܠܲܦܣ̈ܩܐ ܘܠܬܚܘܼܡ̈ܐ ܗܠܝܢ. ܒܚ̇ܕܬܐ ܗܕܐ. ܘܐܦ ܒܣܘܓ݂ܐܐ ܕܟܬܒ̈ܐ ܐܚܪ̈ܢܐ ܐܝܠܝܢ ܕܗ̣ܘ ܝܼܨܦ ܘܐܟ̣ܬ݂ܒ ܐܢܝܢ ܠܕܝܪܐ ܗܕܐ. ܘܫܲܟܢ ܐܢܝܢ ܠܗ̇ ܫܘܼܟܢܐ ܚܲܬܝܬܐ ܘܠܐ ܡ̣ܬܦܲܪܫܢܐ ܡ̣ܛܠ̇  ܕܘܼܟܪܢܐ ܛܒ̇ܐ ܕܢܦܫܗ. ܐܦ ܕܫܪܟܐ ܕܡܫܘ̈ܬܦܐ. ܘܡܛܠ ܕܚ̣ܠܬܐ ܕܡ̣ܢ ܠܐ ܪ̈ܕܝܐ ܘܠܐ ܕܚ̈ܠܝ ܐܠܗܐ. ܣܡ̣ܢܢ ܒܗܘܢ ܬܚܘܼܡ̈ܐ ܗܠܝܢ ܐܝܟ ܕܡ̣ܬܚܙܐ. ܘܕܢ̇ܛܪ ܢ̣ܬܢܛܪ. ܘܕܥ̇ܒܪ ܠܐ ܢܗ̣ܘܐ ܫܪܵܝܐ ܠܥܠܡ̇ ܐܡܝܢ. ܐܝܢ.</p>
+        </h1><br />
+        <h1>
+            <p>A note at the foot of fol. 172 b gives the name of the scribe, <a href="">Isaac</a>: </p>
+            <p><br /><br />ܝܫܘܥ ܐܠܗܐ̇ ܚܲܣܐ ܒܛܝܒܘܬܟ܇ ܠܐܝܣܚܩ ܚܛܝܐ̣. ܕܟܬܼܒ ܠܣܒܪܬܟ</p>
+        </h1><br />Manuscript URI:  http://syriaca.org/manuscript/76/source<h1>See additions.</h1>
+        <h1>
+            <p>Colophon, fol. 290 a:</p>
+            <p><br /><br />ܫܠܸܡ ܠܡ̣ܟܬ̇ܒ ܗܢܐ ܐ̣ܘܢܓܠ̣ܝܘܢ ܩܕܝܫܐ ܕܡܠܠܘܼܗܝ ܘܐܟܪܙܘܼܗܝ ܐܪܒܥܐ ܐܘܢ̈ܓܠܝܣܛܐ ܩܕܝܫ̈ܐ ܡܬܝ ܘܡܪܩܘܼܣ ܘܠܘܼܩܐ ܘܝܘܼܚܢܢ</p>
+            <p>followed by a doxology.</p>
+        </h1><br />Manuscript URI:  http://syriaca.org/manuscript/8/source<h1>See below.</h1>
+        <h1>See below.
+                  </h1>
+        <h1><br /><br />ܣܡ̇ܬ ܠܟ ܝܕܥܐ ܥܠ ܪܫܐ ܕܟܘ̈ܪܣܐ̣. ܕܕܠܐ ܬܘܗܝܐ ܬܫܟܚ ܩܪܝܬܐ ܕܒܥܐ ܐܢܬ݁. ܡܢ ܗܠܝܢ ܕܟ̈ܬܝܒܢ ܡܢ ܠܥܠ<br /><br />"I have put a mark for thee at the commencement of each quire, that thou mayest find without delay the lesson which thou seekest among those written above."<p>By ܕܦܐ is meant a single leaf of the manuscript.</p>
+        </h1><br />
+        <h1>
+            <p><br /><br />ܫܠ̣ܡܬ ܢܒܝܘܬܗ ܕܚܙܩܝܐܝܠ ܢܒܝܐ ܡܫܒܚܐ ܕܢܒ̈ܝܐ</p>
+            <p>followed by the usual doxology, and by two lines of writing in a more cursive character, which are now only partially legible, but may be supplied as follows:</p>
+            <p><br /><br />ܟܠ ܕܝܢ ܕܩ̇ܪܐ ܒܟܬܒܐ ܗܢܐ [ܢܨܠܐ ܥܠ ܟܬܘ]ܒܐ ܚܛܝܐ ܕܟܬ̣ܒܗ ܕܢܬܚܢܢ [ܒܝܘܡ ܕܝܢ̣ܐ. ܐܡܝܢ] ܘܐܡܝܢ . </p>
+        </h1><br />Manuscript URI:  http://syriaca.org/manuscript/81/sourceManuscript URI:  http://syriaca.org/manuscript/82/sourceManuscript URI:  http://syriaca.org/manuscript/83/sourceManuscript URI:  http://syriaca.org/manuscript/84/source<h1>See additions.</h1>
+        <h1>
+            <p>Doxology following subscription:</p>
+            <p><br /><br />ܫܘܒܚܐ ܠܬܠܝܬܝܘܬܟ ܣܓܝܕܬ ܡܢ ܟܠ ܠܥܠܡ ܥܠܡܝܢ
+                                        ܐܡܝܢ.</p>
+        </h1><br />
+        <h1>
+            <p>Note following doxology and in smaller
                                         letters.</p>
-    <p>
-        <quote>"Jesus God, have mercy on<persName ref=""> Sābā the scribe of <placeName ref="">Rās’ain</placeName>
-            </persName>, who
-                                        wrote this book, and did not write in it a blotted tau."</quote>
-                                    See<bibl> Add. 12,135, part first<ptr target="http://syriaca.org/manuscript/6"/>
-        </bibl>, and <bibl>Add. 14,430<ptr target="http://syriaca.org/manuscript/86"/>
-        </bibl>, where we have the
-                                        dates A.D. <date when="0726" calendar="Gregorian">726</date> and <date when="0724" calendar="Gregorian">724</date>.</p>
-    <p>
-        <quote xml:lang="syr">ܝܫܘܥ ܐܠܗܐ̣. ܪܚܡ ܥܠ ܣܒܐ ܟܬܘܒܐ ܪܝܫܥܝܢܝܐ
-                                        ܕܟܬ̣ܒ ܟܬܒܐ ܗܢܐ܇ ܘܬܘ ܛܡܝܡܬܐ ܠܐ ܟܬܒ ܒܗ.</quote>
-    </p>
-              <!-- Question about dots in the Syriac -->
-</item>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/85/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition10">See below.
-                       </ref>
-</colophon>
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition11">See below.</ref>
-</colophon>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="1" xml:id="addition1">
-    <ref target="#handNote2"/>
-    <p>Greek vowels are rarely added; for example, <locus from="5a" to="5a">fol. 5 a</locus>, <foreign xml:lang="syr">ܦܶܐܢܰܐܢܰܐ</foreign>, <locus from="88b" to="88b">fol. 88 b</locus>, <foreign xml:lang="syr">ܕܒܣܐܦܝܡܘܬ</foreign>, <foreign xml:lang="syr">ܕܒܐܪܝܩܐܢ</foreign> ,and <foreign xml:lang="syr">ܕܒܢܘܳܢܬܘܳܡ</foreign>.</p>
- <!-- Missing some vowels on top of these syriac words -->
-</item>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="10" xml:id="addition10">
-    <locus from="90a" to="90a"/>
-    <ref target="#b2 #handNote1"/>
-    <p>
-        <quote xml:lang="syr">ܐܬܬ݁ܪܨ ܟܬܒܐ ܗܢܐ ܩܕܡܝܐ ܕܡ̈ܠܟܘܬܐ: ܐܝܟ ܕܡܨܝܐ ܘܗܘܬ݀ ܘܣ̇ܓܝ ܥܣܩܐܝܬ: ܡܢ ܡܫܠܡ̈ܢܘܬܐ ܡܫܚ̈ܠܦܬܐ: ܡܢ ܗ̇ܝ ܟܝܬ ܕܠܘܬ ܣܘܪ̈ܝܝܐ̇ ܘܡܢ ܗܠܝܢ ܕܠܘܬ ܝܘ̈ܢܝܐ̣. ܒܐܝ̈ܕܝ ܚܣܝܐ ܝܥܩܘܒ ܐܦܝܣܩܦܐ ܕܐܘܪܗܝ: ܒܫܢܬ ܏ܐܝܘ ܕܡܢܝܢܐ ܕܝ̈ܘܢܝܐ ܐܘ ܟܝܬ ܕܣܠܘܩܘܣ ܡ̇ܠܟܐ: ܐܝܢܕܩܛܝܘܢܐ ܕܬܠܬܐ ܒܕܝܪܐ ܪܒܬܐ ܕܬܠܥܕܐ.</quote>
-    </p>
-          <!-- The dots on top of syriac word ܝܥܩܘܒ are missing  -->
-    <quote>“This first book of Kings was corrected, so far as possible and with much labour, from the different versions, viz. from that of the Syrians and from those of the Greeks, by the hands of the pious <persName ref="http://syriaca.org/person/113">Jacob, bishop of <placeName>Edessa</placeName>
-        </persName>, in <date when-custom="1016" datingMethod="Seleucid">the year 1016 of the Greeks or of <persName>king Seleucus</persName>
-        </date> (<date when="0705" calendar="Gregorian">A.D. 705</date>), third indiction, in the great <placeName ref="">convent of Tel-'Adā.</placeName>"</quote>
-</item>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="1" xml:id="addition1">
-    <ref target="#handNote2"/>
-    <p>Greek vowels are rarely added; for example, <locus from="5a" to="5a">fol. 5 a</locus>, <foreign xml:lang="syr">ܦܶܐܢܰܐܢܰܐ</foreign>, <locus from="88b" to="88b">fol. 88 b</locus>, <foreign xml:lang="syr">ܕܒܣܐܦܝܡܘܬ</foreign>, <foreign xml:lang="syr">ܕܒܐܪܝܩܐܢ</foreign> ,and <foreign xml:lang="syr">ܕܒܢܘܳܢܬܘܳܡ</foreign>.</p>
- <!-- Missing some vowels on top of these syriac words -->
-</item>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="11" xml:id="addition11">
-    <locus from="166" to="166"/>
-    <ref target="#b4 #handNote1"/>
-    <quote xml:lang="syr">܏ܝܗ ܥܠ ܗ̇ܝ ܕܟܕ ܣܐ̣ܒ ܕܘܝܕ ܠܐ ܫܚ̇ܢ ܗܘܐ ܒܠܒܘ̈ܫܐ܆ ܘܐܝܬ̣ܝܘ ܠܗ ܥܠܝܡܬܐ ܒܬܘܠܬܐ ܕܬܫܟ݂ܒ ܥܡܗ: ܘܥܠ ܪܘܪܒܗ ܕܐܘܪܢܝܐ ܒܪ ܚܐܓܝܬ ܠܘܬ ܗ̇ܝ ܕܢܡܠܟ̇ ܘܥܠ ܦܘܕܗ ܕܡܢ ܪܓܬܗ: ܘܥܠ ܡܠܟܘܬܗ ܕܫܠܘܡܘܢ ܘܥܠ ܗܠܝܢ ܕܦܩܕܗ ܐܒܘܗܝ ܩܕܡ ܕܢܡܘܬ܀</quote>
-</item>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/86
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition1 #addition2">See below</ref>.</colophon>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="1" xml:id="addition1">
-    <locus from="73a" to="73a"/>
-    <desc>On fol. 73a, after the subscription, stands the following note, giving the name of the scribe, with his usual boast that he "never made a blotted tau.”</desc>
-    <quote xml:lang="syr">ܟܠ ܕܩ̇ܪܐ ܒܟܬܒܐ ܗܠܝܼܢ. ܢܨ̇ܠܐ ܥܠ ܚ̇ܛܝܐ ܘܕܘܝܐ ܡܪܣܒܐ ܫܡܫܐ ܟܬܘܒܐ ܪܝܫܥܝܢܝܐ ܕܟ̣ܬܒ ܐܝܟ ܚܝܠܗ܇ ܘܬܘ ܛܡܝܡܐ ܒܗܘܢ ܠܐ ܥܒܕ. ܘܢܐܡܪ̣ . ܐܠܗܐ̣ ܚܘܢܝܗܝ ܠܚ̇ܛܝܐ ܒܨܠܘܬ ܝܠܕܬܟ ܐܡܝܢ.</quote>
-</item>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="2" xml:id="addition2">
-    <locus from="73a" to="73a"/>
-    <desc>
-        <ref target="#addition1">This</ref> is followed by the doxology:</desc>
-    <quote xml:lang="syr">ܫܘܒܚܐ ܠܬܠܝܬܝܘܬܐ ܕܠܐ ܦܘܠܓ ܐܡܝܢ ܘܐܡܝܢ</quote>
-</item>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/87/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/88/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#addition3">See additions.</ref>
-</colophon>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="3" xml:id="addition3">
-    <locus from="3a" to="3a"/>
-    <ref target="#handNote3"/>
-    <p>The above <ref target="#addition2">note</ref> is in the handwriting of one<persName ref="">Simeon the son of <persName xml:lang="syr" ref="">ܪܓܝܘ</persName>
-        </persName>,
-                            the same who drew up the <ref target="#a1">index of lessons</ref>, as may be seen from the note appended to that index, fol. 3a:</p>
-    <p>
-        <quote xml:lang="syr">ܡܛܠ ܚܘܒܗ ܘܚ̈ܫܘܗܝ ܩ̈ܕܝܫܐ ܕܡܫܝܚܐ ܐܠܗܐ ܦܪܘܩܢ: ܟܠ ܕܡ̇ܦܪܫ ܩܪ̈ܝܢܐ ܒܟܬܒܐ ܗܢܐ ܕܛܘܒܬܢܐ ܐܫܥܝܐ̣ ܢܨ̇ܠܐ ܥܠ ܚܛܝܐ ܘܕܘ̇ܝܐ  . . . ܫܡܥܘܢ ܒܪ ܪܓܝܘ ܕܣ̣ܡ ܒܗ ܩܪ̈ܝܢܐ̣. ܘܥܠ ܩܫܝܫܐ ܡܪܝ ܠܐܘܢܛܝ ܡܪܗ ܕܝܠܗ ܕܟܬܒܐ ܏܏ܘܫ</quote>
-    </p>
-</item>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/9/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#p4addition1">See additions.</ref>
-</colophon>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="1" xml:id="addition1">
-    <locus from="213b" to="213b"/>
-    <p>On fol. 213bis the following note, written by <ref target="#p5handNote1">the above-mentioned Samuel</ref>, relating to the book in its present form.</p>
-    <p>
-        <quote xml:lang="syr">ܟ̇ܢ̣ܫ ܘܕܒܩ ܠܟܬܒܐ ܗܢܐ ܩܕܝܫܐ ܫܡܘܐܠ ܐܟܣܢܝܐ. ܘܐܝܬܘܗܝ ܕܡܬܝܕܥ̇ ܚܒܝܫܝܐ ܒܓܘܙܪܬܐ. ܒܐܪܥܐ ܕܡܨܪܝܢ. ܘܟܢܫܬܗ ܡܢ ܡܨܪܝܢ. ܘܐܝܬܘܗܝ ܕܕܝܪܐ ܕܒܝܬ ܝ̇ܠܕܬ ܐܠܗܐ ܕܒܡܕܒܪܐ ܕܐܒܐ ܡܩܪܝ. ܘܡܪܝܐ ܢܚ̇ܣ̣ܐ ܠܟܠ ܕܡܗ̇ܦܟ ܠܗ. ܠܗ̇ ܠܕܝܪܐ ܕܐܡܪܝܐ. ܡܢ ܠܥܠ. ܘܡܪܝܐ ܢܚܣܐ ܠܟܠ ܕܐܫܬܘܦ. (sic) ܐܢ ܒܚܪܝܬܐ ܘܐܢ ܒܩܕܡܝܬܐ. ܘܟܠ ܐܢܫ ܐܝܟ ܨܠܘܬܗ ܦܬ݂ܩ (sic) ܐܡܝܢ ܘܐܡܝܢ♱</quote>
-    </p>
-    <p>
-        <quote>"Samuel, a stranger, known as the recluse in Gozartā, in Egypt, collected and bound this holy book. And I collected it from Egypt. And it belongs to the convent of the Mother of God, which is in the desert of Abbā Macarius;”</quote> etc.</p>
-</item>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="1" xml:id="p4addition1">
-    <locus from="213a" to="213a"/>
-    <p>
-        <quote xml:lang="syr">ܫܠܡ ܠܡܟܬܒ ܐܘܢܓܠܝܘܢ ܩܕܝܫܐ ܟܪܘܙܘܬܐ ܕܝܘܚܢܢ ܫܠܝܚܐ ܚܕ ܡܢ ܬܪ̈ܥܣܪ ܕܡܠܠ ܝܘܢܐܝܬ ܒܐܦܣܣ. ܫܠܡ ܠܡܟܬܒ ܒܟܬܒܐ ܗܢܐ ܐܘ̈ܢܓܠܣܛܐ ܬܠܬܐ ܡܬܝ ܠܘܩܐ ܝܘܚܢܢ. . </quote>
-    </p>
-    <p>The manuscript, therefore, from which these two leaves were taken, contained only the three Gospels of <bibl>S. Matthew<ptr target="http://syriaca.org/work/72"/>
-        </bibl>, <bibl>S. Luke<ptr target="http://syriaca.org/work/74"/>
-        </bibl> and <bibl>S. John<ptr target="http://syriaca.org/work/75"/>
-        </bibl>.</p>
-</item>
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/90/source
-**************************************************
-######################################
-Manuscript URI:  http://syriaca.org/manuscript/97/source
-<colophon xmlns="http://www.tei-c.org/ns/1.0">
-    <ref target="#p2addition5">See additions.</ref>
-</colophon>
-<item xmlns="http://www.tei-c.org/ns/1.0" n="5" xml:id="p2addition5">
-    <locus from="122a" to="122a"/>
-    <p>The usual doxology, after which we have the following note of the translator, <persName ref="http://syriaca.org/person/82">Paul of Tellā</persName>:</p>
-    <p>
-        <quote xml:lang="syr">ܐܬܢܣ̣ܒ ܟܬܒܐ ܗܢܐ ܕܡܢܗ ܐܬ݀ܦܫܩ ܗܢܐ ܕܒܐܝ̈ܕܝܐ ܡܢ ܝܘܢܝܐ ܠܣܘܪܝܝܐ ܡܢ ܐܟܣܦܠܐ ܗܢܘ ܕܝܢ ܕܫ̈ܬ ܦܨ̈ܐ. ܕܒܝܬ ܟ̈ܬܒܐ ܕܫ̈ܬ ܦܨ̈ܐ ܕܒܝܬ ܟ̈ܬܒܐ ܕܩܣܪܝܐ ܦܠܣܛܝܢܐ ܘܐܬܦ̇ܚܡ ܠܘܬ ܨܚܚܐ ܗܿܘ ܕܪܫܝܡ ܗܘܐ ܒܗ ܡܢ ܠܬܚܬ ܗܟܢܐ܀ ܐܘܣܒܝܣ ܬܪܝܨܬ ܚܬܝܬܐܝܬܼ ܐܝܟ ܕܡܨܝܐ ܗܘܬ܀ ܐܬܦܣܩ (sic) ܕܝܢ ܡܢ ܠܫܢܐ ܝܘܢܝܐ ܠܣܘܪܝܝܐ ܒܝܪܚܐ ܫܒܛ. ܕܫܢܬ ܬܫܥ̈ܡܐܐ ܘܥܣܪ̈ܝܢ ܘܫܒ̈ܥ ܐܝܟ ܡܢܝܢܐ ܕܐܠܟܣܢܕܪܘܣ. ܐܢܕܩܛܝܘܢܐ ܕܐܪ̈ܒܥ ܒܐܢܛܘܢ ܕܐܠܟܣܢܕܪܝܐ̣. ܒܕܝܪܐ ܩܕܝܫܬܐ ܕܐܢܛܘܢܝܢܘ܀ </quote>
-    </p>
-    <p>
-        <quote>"The manuscript, according to which the book in hands was translated from Greek into Syriac, was taken from a copy of the <bibl>Hexapla<ptr target="http://syriaca.org/work/179"/>
-            </bibl> among those in the <placeName ref="'">library of <placeName ref="">Caesarea</placeName>
-            </placeName> in <placeName ref="">Palestine</placeName>, collated with that exemplar in which was written as follows: <q>‘I <persName ref="">Eusebius</persName> have corrected carefully to the best of my ability.’</q>
-                      The translation from the Greek tongue into the Syriac was made in the month of Shěbāt, <date when-custom="0927" datingMethod="Seleucid">A. Gr. 927</date> (<date when="0616" calendar="Gregorian">A.D. 616</date>), fourth indiction, at the <placeName ref="">Enaton of <placeName ref="">Alexandria</placeName>
-            </placeName>, in <placeName ref="">the holy convent of the Antonine monks</placeName>."</quote>
-    </p>
-    <p>Compare <bibl>Add. 12,156, fol. 10b<ptr target="http://syriaca.org/manuscript/31"/>
-        </bibl>, extract from an epistle of <persName ref="">Dioscorus of <placeName ref="">Alexandria</placeName>
-        </persName>, written when in exile, <quote xml:lang="syr">ܠܘܬ ܕܝܪ̈ܝܐ ܕܗܐܢܐܛܘܢ</quote> ; <bibl>Add. 14,647, fol. 79 a<ptr target="http://syriaca.org/manuscript/413"/>
-        </bibl>, <quote xml:lang="syr">ܘܥܠ ܠܐܬܪܐ ܕܠܐܟܣܢܕܪܐ. ܘܬ݀ܡܢ ܥܡ̇ܪ ܗܘܐ ܒܕܘܟܬܐ ܕܡܬܩܪܝܐ̣ ܕܐܢܛܘܢ ܕܡܬ̇ܦܫܩ̣ ܕܬܫܥܐ. ܗܢܘ ܕܝܼܢ ܡ̈ܝܠܐ</quote>;
-                      <bibl>Add. 12,174, fol. 61b<ptr target="http://syriaca.org/manuscript/70"/>
-        </bibl>, <quote xml:lang="syr">
-            <sic>ܟܕ ܐܬܟ݁ܢܫܘ ܟܢܫ̣̈ܐ ܕܕܝܪ̈ܝܐ ܩܕܝ̈ܫܐ: ܠܘ ܒܠܚܘܕ ܗ̇ܢܘܢ ܕܐܝܬ ܒܡܕܝ̈ܢܬܐ̇. ܐܠܐ ܘܗ̇ܢܘܢ ܕܐܝܬ ܠܘܬܗ̇ ܒܗܿܘ ܕܡܬܩ̣ܪܐ ܐܢܛܘܢ. ܘܒܐܩܛܩܕܩܛܘܢ ܘܒܐܝܩܣܛܘܢ ܘܒܫܪܟܐ ܕܕܝܪ̈ܬܐ ܩܕܝܫ̈ܬܐ</sic>
-        </quote>.<persName ref="">Severus of <placeName ref="">Antioch</placeName>
-        </persName>, when residing at <placeName ref="">Alexandria</placeName>, lived <foreign xml:lang="grc">εἰς τὸ ἔννατον</foreign> (see <bibl>Cave, Hist. Lit., ed. 1740, t. i. p. 499</bibl>),
-                      and here was the <placeName ref="">monastery of S. Antony</placeName> (see <bibl>Assemani, Bibl. Orient., t. i. p. 41, t. ii. p. 93</bibl>; and <bibl>Bernstein, de Hharklensi N. Test. Translatione Syriaca Comment., p. 5, with the erroneous note 10</bibl>)</p>
-</item>
-**************************************************
+            <p><br /><br />"Jesus God, have mercy on<a href=""> Sābā the scribe of <a href="">Rās’ain</a></a>, who
+                                        wrote this book, and did not write in it a blotted tau."
+                                    See Add. 12,135, part first, and Add. 14,430, where we have the
+                                        dates A.D. 726 and 724.</p>
+            <p><br /><br />ܝܫܘܥ ܐܠܗܐ̣. ܪܚܡ ܥܠ ܣܒܐ ܟܬܘܒܐ ܪܝܫܥܝܢܝܐ
+                                        ܕܟܬ̣ܒ ܟܬܒܐ ܗܢܐ܇ ܘܬܘ ܛܡܝܡܬܐ ܠܐ ܟܬܒ ܒܗ.</p>
+              </h1><br />Manuscript URI:  http://syriaca.org/manuscript/85/source<h1>See below.
+                       </h1>
+        <h1>See below.</h1>
+        <h1>
+            <p>Greek vowels are rarely added; for example, fol. 5 a, ܦܶܐܢܰܐܢܰܐ, fol. 88 b, ܕܒܣܐܦܝܡܘܬ, ܕܒܐܪܝܩܐܢ ,and ܕܒܢܘܳܢܬܘܳܡ.</p>
+ </h1><br />
+        <h1>
+            <p><br /><br />ܐܬܬ݁ܪܨ ܟܬܒܐ ܗܢܐ ܩܕܡܝܐ ܕܡ̈ܠܟܘܬܐ: ܐܝܟ ܕܡܨܝܐ ܘܗܘܬ݀ ܘܣ̇ܓܝ ܥܣܩܐܝܬ: ܡܢ ܡܫܠܡ̈ܢܘܬܐ ܡܫܚ̈ܠܦܬܐ: ܡܢ ܗ̇ܝ ܟܝܬ ܕܠܘܬ ܣܘܪ̈ܝܝܐ̇ ܘܡܢ ܗܠܝܢ ܕܠܘܬ ܝܘ̈ܢܝܐ̣. ܒܐܝ̈ܕܝ ܚܣܝܐ ܝܥܩܘܒ ܐܦܝܣܩܦܐ ܕܐܘܪܗܝ: ܒܫܢܬ ܏ܐܝܘ ܕܡܢܝܢܐ ܕܝ̈ܘܢܝܐ ܐܘ ܟܝܬ ܕܣܠܘܩܘܣ ܡ̇ܠܟܐ: ܐܝܢܕܩܛܝܘܢܐ ܕܬܠܬܐ ܒܕܝܪܐ ܪܒܬܐ ܕܬܠܥܕܐ.</p>
+          <br /><br />“This first book of Kings was corrected, so far as possible and with much labour, from the different versions, viz. from that of the Syrians and from those of the Greeks, by the hands of the pious <a href="">Jacob, bishop of <a href="">Edessa</a></a>, in the year 1016 of the Greeks or of <a href="">king Seleucus</a> (A.D. 705), third indiction, in the great <a href="">convent of Tel-'Adā.</a>"</h1><br />
+        <h1>
+            <p>Greek vowels are rarely added; for example, fol. 5 a, ܦܶܐܢܰܐܢܰܐ, fol. 88 b, ܕܒܣܐܦܝܡܘܬ, ܕܒܐܪܝܩܐܢ ,and ܕܒܢܘܳܢܬܘܳܡ.</p>
+ </h1><br />
+        <h1><br /><br />܏ܝܗ ܥܠ ܗ̇ܝ ܕܟܕ ܣܐ̣ܒ ܕܘܝܕ ܠܐ ܫܚ̇ܢ ܗܘܐ ܒܠܒܘ̈ܫܐ܆ ܘܐܝܬ̣ܝܘ ܠܗ ܥܠܝܡܬܐ ܒܬܘܠܬܐ ܕܬܫܟ݂ܒ ܥܡܗ: ܘܥܠ ܪܘܪܒܗ ܕܐܘܪܢܝܐ ܒܪ ܚܐܓܝܬ ܠܘܬ ܗ̇ܝ ܕܢܡܠܟ̇ ܘܥܠ ܦܘܕܗ ܕܡܢ ܪܓܬܗ: ܘܥܠ ܡܠܟܘܬܗ ܕܫܠܘܡܘܢ ܘܥܠ ܗܠܝܢ ܕܦܩܕܗ ܐܒܘܗܝ ܩܕܡ ܕܢܡܘܬ܀</h1><br />Manuscript URI:  http://syriaca.org/manuscript/86<h1>See below.</h1>
+        <h1>On fol. 73a, after the subscription, stands the following note, giving the name of the scribe, with his usual boast that he "never made a blotted tau.”<br /><br />ܟܠ ܕܩ̇ܪܐ ܒܟܬܒܐ ܗܠܝܼܢ. ܢܨ̇ܠܐ ܥܠ ܚ̇ܛܝܐ ܘܕܘܝܐ ܡܪܣܒܐ ܫܡܫܐ ܟܬܘܒܐ ܪܝܫܥܝܢܝܐ ܕܟ̣ܬܒ ܐܝܟ ܚܝܠܗ܇ ܘܬܘ ܛܡܝܡܐ ܒܗܘܢ ܠܐ ܥܒܕ. ܘܢܐܡܪ̣ . ܐܠܗܐ̣ ܚܘܢܝܗܝ ܠܚ̇ܛܝܐ ܒܨܠܘܬ ܝܠܕܬܟ ܐܡܝܢ.</h1><br />
+        <h1>This is followed by the doxology:<br /><br />ܫܘܒܚܐ ܠܬܠܝܬܝܘܬܐ ܕܠܐ ܦܘܠܓ ܐܡܝܢ ܘܐܡܝܢ</h1><br />Manuscript URI:  http://syriaca.org/manuscript/87/sourceManuscript URI:  http://syriaca.org/manuscript/88/source<h1>See additions.</h1>
+        <h1>
+            <p>The above note is in the handwriting of one<a href="">Simeon the son of <a href="">ܪܓܝܘ</a></a>,
+                            the same who drew up the index of lessons, as may be seen from the note appended to that index, fol. 3a:</p>
+            <p><br /><br />ܡܛܠ ܚܘܒܗ ܘܚ̈ܫܘܗܝ ܩ̈ܕܝܫܐ ܕܡܫܝܚܐ ܐܠܗܐ ܦܪܘܩܢ: ܟܠ ܕܡ̇ܦܪܫ ܩܪ̈ܝܢܐ ܒܟܬܒܐ ܗܢܐ ܕܛܘܒܬܢܐ ܐܫܥܝܐ̣ ܢܨ̇ܠܐ ܥܠ ܚܛܝܐ ܘܕܘ̇ܝܐ  . . . ܫܡܥܘܢ ܒܪ ܪܓܝܘ ܕܣ̣ܡ ܒܗ ܩܪ̈ܝܢܐ̣. ܘܥܠ ܩܫܝܫܐ ܡܪܝ ܠܐܘܢܛܝ ܡܪܗ ܕܝܠܗ ܕܟܬܒܐ ܏܏ܘܫ</p>
+        </h1><br />Manuscript URI:  http://syriaca.org/manuscript/9/source<h1>See additions.</h1>
+        <h1>
+            <p>On fol. 213bis the following note, written by the above-mentioned Samuel, relating to the book in its present form.</p>
+            <p><br /><br />ܟ̇ܢ̣ܫ ܘܕܒܩ ܠܟܬܒܐ ܗܢܐ ܩܕܝܫܐ ܫܡܘܐܠ ܐܟܣܢܝܐ. ܘܐܝܬܘܗܝ ܕܡܬܝܕܥ̇ ܚܒܝܫܝܐ ܒܓܘܙܪܬܐ. ܒܐܪܥܐ ܕܡܨܪܝܢ. ܘܟܢܫܬܗ ܡܢ ܡܨܪܝܢ. ܘܐܝܬܘܗܝ ܕܕܝܪܐ ܕܒܝܬ ܝ̇ܠܕܬ ܐܠܗܐ ܕܒܡܕܒܪܐ ܕܐܒܐ ܡܩܪܝ. ܘܡܪܝܐ ܢܚ̇ܣ̣ܐ ܠܟܠ ܕܡܗ̇ܦܟ ܠܗ. ܠܗ̇ ܠܕܝܪܐ ܕܐܡܪܝܐ. ܡܢ ܠܥܠ. ܘܡܪܝܐ ܢܚܣܐ ܠܟܠ ܕܐܫܬܘܦ. (sic) ܐܢ ܒܚܪܝܬܐ ܘܐܢ ܒܩܕܡܝܬܐ. ܘܟܠ ܐܢܫ ܐܝܟ ܨܠܘܬܗ ܦܬ݂ܩ (sic) ܐܡܝܢ ܘܐܡܝܢ♱</p>
+            <p><br /><br />"Samuel, a stranger, known as the recluse in Gozartā, in Egypt, collected and bound this holy book. And I collected it from Egypt. And it belongs to the convent of the Mother of God, which is in the desert of Abbā Macarius;” etc.</p>
+        </h1><br />
+        <h1>
+            <p><br /><br />ܫܠܡ ܠܡܟܬܒ ܐܘܢܓܠܝܘܢ ܩܕܝܫܐ ܟܪܘܙܘܬܐ ܕܝܘܚܢܢ ܫܠܝܚܐ ܚܕ ܡܢ ܬܪ̈ܥܣܪ ܕܡܠܠ ܝܘܢܐܝܬ ܒܐܦܣܣ. ܫܠܡ ܠܡܟܬܒ ܒܟܬܒܐ ܗܢܐ ܐܘ̈ܢܓܠܣܛܐ ܬܠܬܐ ܡܬܝ ܠܘܩܐ ܝܘܚܢܢ. . </p>
+            <p>The manuscript, therefore, from which these two leaves were taken, contained only the three Gospels of S. Matthew, S. Luke and S. John.</p>
+        </h1><br />Manuscript URI:  http://syriaca.org/manuscript/90/sourceManuscript URI:  http://syriaca.org/manuscript/97/source<h1>See additions.</h1>
+        <h1>
+            <p>The usual doxology, after which we have the following note of the translator, <a href="">Paul of Tellā</a>:</p>
+            <p><br /><br />ܐܬܢܣ̣ܒ ܟܬܒܐ ܗܢܐ ܕܡܢܗ ܐܬ݀ܦܫܩ ܗܢܐ ܕܒܐܝ̈ܕܝܐ ܡܢ ܝܘܢܝܐ ܠܣܘܪܝܝܐ ܡܢ ܐܟܣܦܠܐ ܗܢܘ ܕܝܢ ܕܫ̈ܬ ܦܨ̈ܐ. ܕܒܝܬ ܟ̈ܬܒܐ ܕܫ̈ܬ ܦܨ̈ܐ ܕܒܝܬ ܟ̈ܬܒܐ ܕܩܣܪܝܐ ܦܠܣܛܝܢܐ ܘܐܬܦ̇ܚܡ ܠܘܬ ܨܚܚܐ ܗܿܘ ܕܪܫܝܡ ܗܘܐ ܒܗ ܡܢ ܠܬܚܬ ܗܟܢܐ܀ ܐܘܣܒܝܣ ܬܪܝܨܬ ܚܬܝܬܐܝܬܼ ܐܝܟ ܕܡܨܝܐ ܗܘܬ܀ ܐܬܦܣܩ (sic) ܕܝܢ ܡܢ ܠܫܢܐ ܝܘܢܝܐ ܠܣܘܪܝܝܐ ܒܝܪܚܐ ܫܒܛ. ܕܫܢܬ ܬܫܥ̈ܡܐܐ ܘܥܣܪ̈ܝܢ ܘܫܒ̈ܥ ܐܝܟ ܡܢܝܢܐ ܕܐܠܟܣܢܕܪܘܣ. ܐܢܕܩܛܝܘܢܐ ܕܐܪ̈ܒܥ ܒܐܢܛܘܢ ܕܐܠܟܣܢܕܪܝܐ̣. ܒܕܝܪܐ ܩܕܝܫܬܐ ܕܐܢܛܘܢܝܢܘ܀ </p>
+            <p><br /><br />"The manuscript, according to which the book in hands was translated from Greek into Syriac, was taken from a copy of the Hexapla among those in the <a href="">library of <a href="">Caesarea</a></a> in <a href="">Palestine</a>, collated with that exemplar in which was written as follows: ‘I <a href="">Eusebius</a> have corrected carefully to the best of my ability.’
+                      The translation from the Greek tongue into the Syriac was made in the month of Shěbāt, A. Gr. 927 (A.D. 616), fourth indiction, at the <a href="">Enaton of <a href="">Alexandria</a></a>, in <a href="">the holy convent of the Antonine monks</a>."</p>
+            <p>Compare Add. 12,156, fol. 10b, extract from an epistle of <a href="">Dioscorus of <a href="">Alexandria</a></a>, written when in exile, <br /><br />ܠܘܬ ܕܝܪ̈ܝܐ ܕܗܐܢܐܛܘܢ ; Add. 14,647, fol. 79 a, <br /><br />ܘܥܠ ܠܐܬܪܐ ܕܠܐܟܣܢܕܪܐ. ܘܬ݀ܡܢ ܥܡ̇ܪ ܗܘܐ ܒܕܘܟܬܐ ܕܡܬܩܪܝܐ̣ ܕܐܢܛܘܢ ܕܡܬ̇ܦܫܩ̣ ܕܬܫܥܐ. ܗܢܘ ܕܝܼܢ ܡ̈ܝܠܐ;
+                      Add. 12,174, fol. 61b, <br /><br />ܟܕ ܐܬܟ݁ܢܫܘ ܟܢܫ̣̈ܐ ܕܕܝܪ̈ܝܐ ܩܕܝ̈ܫܐ: ܠܘ ܒܠܚܘܕ ܗ̇ܢܘܢ ܕܐܝܬ ܒܡܕܝ̈ܢܬܐ̇. ܐܠܐ ܘܗ̇ܢܘܢ ܕܐܝܬ ܠܘܬܗ̇ ܒܗܿܘ ܕܡܬܩ̣ܪܐ ܐܢܛܘܢ. ܘܒܐܩܛܩܕܩܛܘܢ ܘܒܐܝܩܣܛܘܢ ܘܒܫܪܟܐ ܕܕܝܪ̈ܬܐ ܩܕܝܫ̈ܬܐ.<a href="">Severus of <a href="">Antioch</a></a>, when residing at <a href="">Alexandria</a>, lived εἰς τὸ ἔννατον (see Cave, Hist. Lit., ed. 1740, t. i. p. 499),
+                      and here was the <a href="">monastery of S. Antony</a> (see Assemani, Bibl. Orient., t. i. p. 41, t. ii. p. 93; and Bernstein, de Hharklensi N. Test. Translatione Syriaca Comment., p. 5, with the erroneous note 10)</p>
+        </h1><br />
+    </body>
+</html>
