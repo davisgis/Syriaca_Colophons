@@ -24,14 +24,15 @@ declare function local:find-colophons($manuscript as element()*)   as item()*
        
          for $manuscript in $manuscript
             let $URI := $manuscript//tei:publicationStmt//tei:idno[@type = 'URI']/text()
-            let $colophons := $manuscript//tei:colophon
-            let $addition_nums := data($manuscript//tei:colophon/tei:ref/@target)
-            let $item_seq :=
+                
+                let $colophons := $manuscript//tei:colophon
+                let $item_seq :=
+                for $addition_nums in data($manuscript//tei:colophon/tei:ref/@target)
                 for $item_id in data($manuscript//tei:additions/tei:list/tei:item/@xml:id)
                 let $item := $manuscript//tei:additions/tei:list/tei:item[@xml:id = $item_id]
                 where (fn:matches($addition_nums, $item_id))
                 return $item
-         return ("######################################", concat("Manuscript URI:  ",$URI), $colophons , $item_seq,  "**************************************************" )
+         return ("######################################", concat("Manuscript URI:  ",$URI),  $colophons,  $item_seq,  "**************************************************" )
          
     };
     
