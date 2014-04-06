@@ -32,7 +32,7 @@ declare function local:find-colophons($manuscript as element()*)   as item()*
                 let $item := $manuscript//tei:additions/tei:list/tei:item[@xml:id = $item_id]
                 where (fn:matches($addition_nums, $item_id))
                 return $item
-         return ("######################################", concat("Manuscript URI:  ",$URI),  $colophons,  $item_seq,  "**************************************************" )
+         return (concat("<h1>", "Manuscript URI:  ",$URI,"</h1>"),  $colophons,  $item_seq)
          
     };
     
