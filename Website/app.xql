@@ -50,14 +50,6 @@ declare function app:colophon_search($node as node(), $model as map(*), $name as
 declare function app:render($node) {
     typeswitch($node)
         case text() return $node
-        (:
-        case element(tei:head) return <h1>{app:recurse($node)}</h1>
-        case element(tei:w) return $node/text()
-        case element(tei:c) return " "
-        case element(tei:pc) return $node/text()
-        case element(tei:lb) return " / "
-        case element(tei:stage) return (<p><b>Stage direction:</b> <i>{app:recurse($node)}</i></p>, <br/>)
-        case element(tei:speaker) return (<br/>,<br/>,<b>{app:recurse($node)}: </b>) :)
         case element(tei:persName) return (<a href="{$node/@ref}">{app:recurse($node)}</a>)
         case element(tei:placeName) return (<a href="{$node/@ref}">{app:recurse($node)}</a>)
         default return app:recurse($node)
