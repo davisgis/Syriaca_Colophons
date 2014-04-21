@@ -39,7 +39,7 @@ declare function app:colophon_search($node as node(), $model as map(*), $name as
             let $item := $manuscript//tei:additions/tei:list/tei:item[@xml:id = $item_id]
             let $locus_from := data($item/tei:locus/@from)
             let $locus_to := data($item/tei:locus/@to)
-            let $type := data($manuscript//tei:additions/tei:list/tei:item/@syriacatags)
+            let $type := data($manuscript//tei:additions/tei:list/tei:item/@syriaca-tags)
             where (fn:matches($addition_nums, $item_id))
          return if(($name and fn:matches($item, $name)) or ($colo_type and fn:matches($type, $colo_type))) then (<p style="text-indent: 5em;"><b>Colophon Type: </b> {$type}</p>, <p style="text-indent: 5em;"><b> Locus From: </b> {$locus_from} <b> Locus To: </b> {$locus_to}</p>, app:recurse($item)) else ()
     return if(($name and $item_seq) or ($colo_type and $item_seq)) then (<p><h3><b>MANUSCRIPT TITLE: {$man_title}</b></h3></p>, <p style="text-indent: 5em;"><b><em>Manuscript URI: </em></b><a href="{$URI}">{$URI}</a></p>, $item_seq) else () 
