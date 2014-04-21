@@ -20,7 +20,7 @@ declare function local:find-colophons($manuscript as element()*)   as item()*
          for $additions in $manuscript//tei:additions/tei:list/tei:item/tei:p
          let $addition-text := $manuscript//tei:additions/tei:p/text()
          let $URI := $manuscript//tei:publicationStmt//tei:idno[@type = 'URI']/text()
-         where (fn:matches($additions, "note")) and ($URI = "http://syriaca.org/manuscript/154/source")
+         where (fn:matches($additions, "note"))
          (: return count($manuscript//tei:additions/tei:list/tei:item/tei:p//tei:placeName) :)
          return (fn:normalize-space($additions) (:,$additions :)  , $URI) 
          
